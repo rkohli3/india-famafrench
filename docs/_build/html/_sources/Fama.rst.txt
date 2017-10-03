@@ -1,0 +1,39 @@
+
+
+Fama/French
+==============
+
+Description of Fama/French 5 Factors (2X3)
+---------------------------------------------------
+
+
+**Monthly Returns**:    July 1963 -June 2017 	
+
+ 	 
+**Annual Returns**:	    1964 - 2016
+
+
+**Construction**:
+
+
+
+The Fama/French 5 factors (2x3) are constructed using the 6 value-weight 
+portfolios formed on size and book-to-market, the 6 value-weight portfolios formed on size and 
+operating profitability, and the 6 value-weight portfolios formed on size and investment. 
+(See the description of the 6 size/book-to-market, size/operating profitability, size/investment portfolios.)
+SMB (Small Minus Big) is the average return on the nine small stock portfolios minus the average 
+return on the nine big stock portfolios.
+
+.. raw:: html
+	
+	<iframe align = "center" width="1000" height="600" frameborder="0" scrolling="no" src="_static/chart.html"></iframe>
+
+Replication in India 
+---------------------	
+We commence our research by understadning the trends in Indian Markets to see the total 
+companies trading at a point of time T_n. We do this to understand the survivorship bias
+to reveal the the reasons the most apparent reasons for Delisting of any company.
+ 
+ 
+We find the information to further forecast the creditratings of a company and use machine 
+learning algorithm to forecast companies that are susceptible to failing by region.
