@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Methodology for India &#8212; Smart Beta in India  documentation</title>
+    
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/style.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="shortcut icon" href="_static/logo1.ico"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Survivorship Bias in Indian Equity Markets" href="Fama.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          Smart Beta in India</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+                <li><a href="About.html">About the Authors</a></li>
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Methodology for India</a></li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Methodology for India</a><ul>
+<li><a class="reference internal" href="#initial-steps">Initial Steps</a></li>
+<li><a class="reference internal" href="#dimensional-sorting">1-Dimensional Sorting</a></li>
+<li><a class="reference internal" href="#id4">2-Dimensional Sorting</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+  <li>
+    <a href="Fama.html" title="Previous Chapter: Survivorship Bias in Indian Equity Markets"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Survivorship ...</span>
+    </a>
+  </li>
+              
+            
+            
+            
+            
+              <li class="hidden-sm"></li>
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="methodology-for-india">
+<span id="method-india"></span><h1>Methodology for India<a class="headerlink" href="#methodology-for-india" title="Permalink to this headline">¶</a></h1>
+<p>For each of the methodology below, we rebalance the portfolio every month and deploy a buy and hold strategy for <code class="docutils literal"><span class="pre">currently</span></code> equally weighted portfolio.</p>
+<div class="section" id="initial-steps">
+<h2>Initial Steps<a class="headerlink" href="#initial-steps" title="Permalink to this headline">¶</a></h2>
+<p>Our present approach is to test our hypothesis, whether Fama/French factor portfolios can be applied to India, on a sample of 300 stocks</p>
+<ul>
+<li><dl class="simple">
+<dt>Filtering Stock Price data:</dt>
+<dd><p>Our main source of data is ProwessDx, which provides fundamental data on almost 23000 public companies since 1900. The data source
+ProwessDx also contains Closing Prices for NSE and BSE stocks. We adjust Closing Prices for stock splits and dividends by the factor provided
+by ProwessDx at a particular date.</p>
+</dd>
+</dl>
+</li>
+<li><dl>
+<dt>Filtering Fundamental data:</dt>
+<dd><p>About 89% of the companies in India <a class="footnote-reference brackets" href="#id5" id="id1">1</a> file their financial statements on 31st March of every year. Assuming a 3 month
+lag before this information is availble to public, we sort our portfolios on 1st July every month and rebalance every month for
+an equally weighted portfolio. We front fill any fundamentall data not availble for a particular quarter or year. We noticed that
+the front filling was not extensive as ProwessDx proivided very exhaustive and comprehensive data for both BSE and NSE companies</p>
+<p>We have illustrated our findings of the BM ratio and ME ranges from 1995 to 2017 for all 2756 NSE <a class="footnote-reference brackets" href="#id6" id="id2">2</a> that have been listed ever on NSE,
+out of which ony 1681 survived by March of 2017.</p>
+</dd>
+</dl>
+</li>
+</ul>
+<iframe align = "center" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/btom_rnge.html"></iframe>
+
+<iframe align = "center" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/ME_range.html"></iframe><p>The total number of NSE and BSE companies that have survived as of March 2017 are illustrated below. The data accounts for
+suspensions and delisting for firms and include companies only.</p>
+<iframe align = "left" width="49%" height="400" frameborder="0" scrolling="auto" src="_static/NSE_survivors.html"></iframe>
+
+
+
+
+
+<iframe align = "right" width="49%" height="400" frameborder="0" scrolling="auto" src="_static/BSE_Survivors.html"></iframe></div>
+<div class="section" id="dimensional-sorting">
+<h2>1-Dimensional Sorting<a class="headerlink" href="#dimensional-sorting" title="Permalink to this headline">¶</a></h2>
+<p>We apply the standard practice for sorting Winners and Losers as mentioned by Jegadeesh and Titman <a class="footnote-reference brackets" href="#id7" id="id3">3</a> where the stocks are ranked based on their cumulative returns for the past
+eleven months i.e <span class="math">\(t-12\)</span> to <span class="math">\(t-1\)</span>, excluding the most recent month as it is not an indeicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered
+Losers. For the 1-D portfolios, we simply buy the Winners and short sell the Losers, thus to form Winners minus Losers (WML)</p>
+<div class="math">
+\[\text{WML = Winners stocks - Losers stocks}\]</div>
+<p>Further, to sort one dimensionally for size, we first looked at the distribution of Market Equity for the NSE <cite>sample</cite> stocks over the timespan we covered and decided to chose the
+median ME for the sample stocks as the breakpoint, where Small is <span class="math">\(&lt; \text{Median}\)</span> and Big is <span class="math">\(\geq \text{Median}\)</span>, thus to form, Small Minus Big(SMB)</p>
+<div class="math">
+\[\text{SMB = Small stocks - Big stocks}\]</div>
+<p>A similar approach was then used to sort one-dimensionally based on value using the Book-to-Market (BM) ratio. The cutoff points are the sample stocks’ 30% 70% and 100% quintiles,
+deciles, where High BM stocks are <span class="math">\(\geq \text{70th percentile}\)</span> and Low BM stocks are <span class="math">\(&lt; \text{30th percentile}\)</span>, thus to form High Minus Low (HML)</p>
+<div class="math">
+\[\text{HML = High BM stocks - Low BM stocks}\]</div>
+</div>
+<div class="section" id="id4">
+<h2>2-Dimensional Sorting<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p>For 2-D sorting, we use the intersection of <cite>2 X 3</cite> portfolios for Size and Value, <cite>2 X 3</cite> portfolios for Size and Momentum and <cite>3 X 3</cite> portfolios for Momentum and Value.
+The interesectional sorts uses 3 parameters</p>
+<ol class="lowerroman simple">
+<li><p><span class="math">\(\text{B/M}\)</span></p></li>
+<li><p><span class="math">\(\text{ME}\)</span></p></li>
+<li><p><span class="math">\(\text{Cumulative returns or MOM}\)</span></p></li>
+</ol>
+<p>The figures below illustrate the sorted clusters of a sample of 300 stocks for different periods based on the ME and B/M ratio. The sorting
+was done using the cutoff points described above.</p>
+</li>
+</ul>
+<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2017.html"></iframe>
+
+<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2016.html"></iframe>
+
+<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2015.html"></iframe>
+
+<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2009.html"></iframe><p>The methodology for <strong>2-D</strong> sorting for <cite>Momentum</cite> and <cite>Size</cite> is illustred below.</p>
+<a class="reference internal image-reference" href="_images/ports.png"><img alt="_images/ports.png" class="align-center" src="_images/ports.png" style="width: 424.8px; height: 248.39999999999998px;" /></a>
+<ul class="simple">
+<li><p>In the case above for the cross section of <cite>2 X 3</cite> portfolios for Size and Momentum</p></li>
+</ul>
+<div class="math">
+\[WML_{(ME)} = \frac{1}{2}(SW + BW) - \frac{1}{2}(SL + BL)\]</div>
+<div class="math">
+\[SMB_{(MOM)} = \frac{1}{3}(SW + SN + SL) - \frac{1}{3}(BW + BN + BL)\]</div>
+<ul>
+<li><p>Similarly, we find the cross sections for <cite>2 X 3</cite> portfolios for <strong>Size &amp; Value</strong> and <cite>3 X 3</cite> portfolios for <strong>Momentum and Value.</strong>  The cross sections of these portfolios provides us</p>
+<blockquote>
+<div><ol class="lowerroman simple">
+<li><p><span class="math">\(WML_{(ME)}\)</span></p></li>
+<li><p><span class="math">\(WML_{(B/M)}\)</span></p></li>
+<li><p><span class="math">\(SMB_{(MOM)}\)</span></p></li>
+<li><p><span class="math">\(SMB_{(B/M)}\)</span></p></li>
+<li><p><span class="math">\({HML}_{(ME)}\)</span></p></li>
+<li><p><span class="math">\({HML}_{(MOM)}\)</span></p></li>
+</ol>
+</div></blockquote>
+</li>
+<li><p>To finally arrive at the <span class="math">\(SMB, HML, WML\)</span> we take the average of the factors conditioned on two other parameters.</p></li>
+</ul>
+<div class="math">
+\[{SMB} = \frac{1}{2}(SMB_{(MOM)} + SMB_{(B/M)})\]</div>
+<div class="math">
+\[{HML} = \frac{1}{2}( HML_{(ME)} + HML_{(MOM)} )\]</div>
+<div class="math">
+\[{WML} = \frac{1}{2}( WML_{(ME)} + WML_{(B/M)})\]</div>
+<p class="rubric">Footnotes</p>
+<dl class="footnote brackets">
+<dt class="label" id="id5"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p><cite>Agarwalla, S. K., Jacob, J. and Varma, J. R. (2013), Four factor model in Indian equities market, Working Paper W.P. No. 2013-09-05, Indian Institute of Management, Ahmedabad.</cite></p>
+</dd>
+<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p><cite>ProwessDx Data</cite></p>
+</dd>
+<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dd><p><cite>Jegadeesh, N. and Titman, S. (1993), ‘Returns to buying winners and selling losers: Implications for stock market efficiency’, The Journal of Finance 48(1), 65–91.</cite></p>
+</dd>
+</dl>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017, Ravi Kohli.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.2.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>
