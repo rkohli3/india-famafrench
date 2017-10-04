@@ -84,6 +84,8 @@ The Fama/French factor replicating portfolios, both long and short, outperformed
 
    Fama
    method
+   crnt_posit
+
 
 
 
