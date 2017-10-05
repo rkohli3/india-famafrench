@@ -31,6 +31,7 @@
     <link rel="shortcut icon" href="_static/logo1.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Current Positions" href="crnt_posit.html" />
     <link rel="prev" title="Survivorship Bias in Indian Equity Markets" href="Fama.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -72,6 +73,8 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Methodology for India</a></li>
+<li class="toctree-l1"><a class="reference internal" href="crnt_posit.html">Current Positions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="shrt_sllng_ind.html">Short Selling in India</a></li>
 </ul>
 </ul>
 </li>
@@ -101,6 +104,10 @@
                 
   <li>
     <a href="Fama.html" title="Previous Chapter: Survivorship Bias in Indian Equity Markets"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Survivorship ...</span>
+    </a>
+  </li>
+  <li>
+    <a href="crnt_posit.html" title="Next Chapter: Current Positions"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Current Positions &raquo;</span>
     </a>
   </li>
               
@@ -135,7 +142,8 @@
 <p>For each of the methodology below, we rebalance the portfolio every month and deploy a buy and hold strategy for <code class="docutils literal"><span class="pre">currently</span></code> equally weighted portfolio.</p>
 <div class="section" id="initial-steps">
 <h2>Initial Steps<a class="headerlink" href="#initial-steps" title="Permalink to this headline">¶</a></h2>
-<p>Our present approach is to test our hypothesis, whether Fama/French factor portfolios can be applied to India, on a sample of 300 stocks</p>
+<p>Our present approach is to test our hypothesis, whether Fama/French factor portfolios can be applied to India, on all the constituents
+of <a href="#id8"><span class="problematic" id="id9">`NIFTY 500 Index&lt;https://www.nseindia.com/products/content/equities/indices/nifty_500.html&gt;`_</span></a></p>
 <ul>
 <li><dl class="simple">
 <dt>Filtering Stock Price data:</dt>
@@ -148,11 +156,11 @@ by ProwessDx at a particular date.</p>
 <li><dl>
 <dt>Filtering Fundamental data:</dt>
 <dd><p>About 89% of the companies in India <a class="footnote-reference brackets" href="#id5" id="id1">1</a> file their financial statements on 31st March of every year. Assuming a 3 month
-lag before this information is availble to public, we sort our portfolios on 1st July every month and rebalance every month for
-an equally weighted portfolio. We front fill any fundamentall data not availble for a particular quarter or year. We noticed that
-the front filling was not extensive as ProwessDx proivided very exhaustive and comprehensive data for both BSE and NSE companies</p>
+lag before this information is available to public, we sort our portfolios on 1st July every month and rebalance every month for
+an equally weighted portfolio. We front fill any fundamental data not available for a particular quarter or year. We noticed that
+the front filling was not extensive as ProwessDx provided very exhaustive and comprehensive data for both BSE and NSE companies</p>
 <p>We have illustrated our findings of the BM ratio and ME ranges from 1995 to 2017 for all 2756 NSE <a class="footnote-reference brackets" href="#id6" id="id2">2</a> that have been listed ever on NSE,
-out of which ony 1681 survived by March of 2017.</p>
+out of which only 1681 survived by March of 2017.</p>
 </dd>
 </dl>
 </li>
@@ -171,7 +179,7 @@ suspensions and delisting for firms and include companies only.</p>
 <div class="section" id="dimensional-sorting">
 <h2>1-Dimensional Sorting<a class="headerlink" href="#dimensional-sorting" title="Permalink to this headline">¶</a></h2>
 <p>We apply the standard practice for sorting Winners and Losers as mentioned by Jegadeesh and Titman <a class="footnote-reference brackets" href="#id7" id="id3">3</a> where the stocks are ranked based on their cumulative returns for the past
-eleven months i.e <span class="math">\(t-12\)</span> to <span class="math">\(t-1\)</span>, excluding the most recent month as it is not an indeicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered
+eleven months i.e <span class="math">\(t-12\)</span> to <span class="math">\(t-1\)</span>, excluding the most recent month as it is not an indicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered
 Losers. For the 1-D portfolios, we simply buy the Winners and short sell the Losers, thus to form Winners minus Losers (WML)</p>
 <div class="math">
 \[\text{WML = Winners stocks - Losers stocks}\]</div>
@@ -188,7 +196,7 @@ deciles, where High BM stocks are <span class="math">\(\geq \text{70th percentil
 <h2>2-Dimensional Sorting<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
 <ul>
 <li><p>For 2-D sorting, we use the intersection of <cite>2 X 3</cite> portfolios for Size and Value, <cite>2 X 3</cite> portfolios for Size and Momentum and <cite>3 X 3</cite> portfolios for Momentum and Value.
-The interesectional sorts uses 3 parameters</p>
+The intersectional sorts uses 3 parameters</p>
 <ol class="lowerroman simple">
 <li><p><span class="math">\(\text{B/M}\)</span></p></li>
 <li><p><span class="math">\(\text{ME}\)</span></p></li>
@@ -204,7 +212,7 @@ was done using the cutoff points described above.</p>
 
 <iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2015.html"></iframe>
 
-<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2009.html"></iframe><p>The methodology for <strong>2-D</strong> sorting for <cite>Momentum</cite> and <cite>Size</cite> is illustred below.</p>
+<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2009.html"></iframe><p>The methodology for <strong>2-D</strong> sorting for <cite>Momentum</cite> and <cite>Size</cite> is illustrated below.</p>
 <a class="reference internal image-reference" href="_images/ports.png"><img alt="_images/ports.png" class="align-center" src="_images/ports.png" style="width: 424.8px; height: 248.39999999999998px;" /></a>
 <ul class="simple">
 <li><p>In the case above for the cross section of <cite>2 X 3</cite> portfolios for Size and Momentum</p></li>
