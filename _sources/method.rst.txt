@@ -10,7 +10,7 @@ Initial Steps
 --------------
 
 Our present approach is to test our hypothesis, whether Fama/French factor portfolios can be applied to India, on all the constituents
-of `NIFTY 500 Index<https://www.nseindia.com/products/content/equities/indices/nifty_500.html>`_
+of `NIFTY 500 Index <https://www.nseindia.com/products/content/equities/indices/nifty_500.html>`_
 
 - Filtering Stock Price data:
 	Our main source of data is ProwessDx, which provides fundamental data on almost 23000 public companies since 1900. The data source
