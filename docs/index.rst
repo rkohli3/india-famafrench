@@ -37,8 +37,8 @@ the subtle nuances within these markets. Our first market that we examine is the
 
 In `Figure 1` above, the aggregate performance of Long only High B/M, Small ME and Winners portfolio has been impressive. It has outperformed the market (Nifty 50), which is used as a market proxy,
 significantly.
-The cumulative returns, gross of Transaction cost, for High B/M, Small ME and Winners are **450%**, **1961%** and **1357%**  respectively over the past 21 years whereas the returns on Nifty 50 are **93%** in the same period.
-The annualized returns for High B/M, Small ME, Winners and Nifty 50 index are **25%**, **31%**, **29%** and **13.6%** respectively. This illustrates the outperformance of the factors compared with the
+The portfolio of High B/M, Small ME and Winners have grown by 62x, 132x and 105x, respectively over the past 21.5 years whereas Nifty 50 has grown by 9.9x in the same period.
+The annualized returns for High B/M, Small ME, Winners and Nifty 50 index are **21%**, **26%**, **24%** and **11%** respectively. This illustrates the outperformance of the factors compared with the
 proxy index. The equity lines are free from survivorship bias, which you can learn more about in the :ref:`survivors` section. To learn more about methodology check our :ref:`method-india` section.
 
 
@@ -56,7 +56,7 @@ The Indian Market
 
 
 
-The Indian Stock market has 21 stock exhanges, Bombay Stock Exchange (`BSE <http://www.bseindia.com/>`_) and National
+The Indian Stock market has 21 stock exchanges, Bombay Stock Exchange (`BSE <http://www.bseindia.com/>`_) and National
 Stock Exchange (`NSE <https://www.nseindia.com>`_) being the most prominent out of them offering high liquidity for investment.
 Currently as of September 2017 the Market Capitalization for 5,828 companies listed on BSE is approximately US$ 1.94 Trillion [#]_.
 Whereas the Market Capitalization for 1,681 companies listed in NSE is approximately US$ 1.7 Trillion as of March 2017.
@@ -64,7 +64,7 @@ Whereas the Market Capitalization for 1,681 companies listed in NSE is approxima
 Our universe, the Nifty 500 index accounts for approximately  95.2% of the free float market capitalization of the stocks listed on NSE as on March 31, 2017. [#]_
 
 It is also interesting to note that the BSE Sensex, which consists of 30 Largest stocks in BSE,  has provided an aggregate of **97%** returns in this period and in the `Figure 2` above that
-the Risk Free (:math:`R_{f}`) rate in india has been steadily declining, currently at an annualized yield of 5.8% `(See figure above).`
+the Risk Free (:math:`R_{f}`) rate in India has been steadily declining, currently at an annualized yield of 5.8% `(See figure above).`
 
 The Fama/French factor replicating portfolios, both long and short, outperformed the excess returns to Market, which is given by :math:`MRP` where :math:`MRP = R_{m} - R_{f}` and
 :math:`R_{f}` is the yield on 91 days Indian T-bill  in this period. HML, however, has underperformed the :math:`MRP`
@@ -84,6 +84,9 @@ The Fama/French factor replicating portfolios, both long and short, outperformed
 
    Fama
    method
+   crnt_posit
+   shrt_sllng_ind
+
 
 
 

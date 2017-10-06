@@ -45,7 +45,9 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.ifconfig',
     # 'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-	'sphinxjp.themes.basicstrap']
+	'sphinxjp.themes.basicstrap',
+    'sphinxcontrib.exceltable',
+    ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -116,7 +118,7 @@ html_theme_options = {
 	# 'font_size' : '18px',
 	# 'sidebar_span' : 4,
 	'bootswatch_theme': "cosmo",
-	'navbar_links' : [ 
+	'navbar_links' : [
 		("About the Authors" , "About"),
 		]
 	}
