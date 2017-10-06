@@ -8,7 +8,7 @@ each **HML** and **SMB** whereas allocating Rs. 5 Million to **WML**.
 
 
 The positions are as of the end of September when we rebalance our portfolio. Please note, however, the most recent sorting, which
-was done on 2017-03-31, includes stocks which are now merged, suspended or delisted and thus have been left blank in the tables.
+was done on 2017-06-30, includes stocks which are now merged, suspended or delisted and thus have been left blank in the tables.
 Also, due to missing Book-to-Market data for some stocks, the two-way sorting in SMB includes less number of small stocks than big stocks.
 
 
