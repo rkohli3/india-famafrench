@@ -5,7 +5,7 @@ Short Selling in India
 
 According to `NSE <https://www.nseindia.com/products/content/equities/slbs/slbs.html>`_ `Short Selling means selling of a stock that
 the seller does not own at the time of trade. Short selling can be done by borrowing the stock through Clearing Corporation/Clearing
-House of a stock exchange which is registered as Approved Intermediaries (AIs). Short selling can be done by retail as well as
+House of a stock exchange which is registered as Approved Intermediaries (AI's). Short selling can be done by retail as well as
 institutional investors. The Securities Lending and Borrowing mechanism allows short sellers to borrow securities for making delivery.`
 
 Short Selling intraday has not limits, provided the investor covers (buys) his/her position the same day, i.e. Intraday Trading.
@@ -15,7 +15,7 @@ The National Securities Clearing Corporation Ltd. as an Approved Intermediary la
 on April 21, 2008. This scheme is facilitated on an automated screen based platform where the order matching is o price time priority and
 where the participant need to quote the lending fee per share on the order matching platform. [#]_
 
-According the SLBA `website <https://www.nseindia.com/products/content/equities/slbs/features_slbs.htm>`_,
+According to the SLBS `website <https://www.nseindia.com/products/content/equities/slbs/features_slbs.htm>`_,
 
 - The Tenure of borrowing and lending is available up to a period of 12 months
 
