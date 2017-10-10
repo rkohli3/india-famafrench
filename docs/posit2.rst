@@ -93,6 +93,19 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		white-space:normal;}
 	.xl67
 		{mso-style-parent:style0;
+		color:white;
+		font-weight:700;
+		font-family:Calibri;
+		mso-generic-font-family:auto;
+		mso-font-charset:0;
+		text-align:center;
+		vertical-align:middle;
+		border:.5pt solid windowtext;
+		background:black;
+		mso-pattern:black none;
+		white-space:normal;}
+	.xl68
+		{mso-style-parent:style0;
 		font-weight:700;
 		text-align:center;
 		vertical-align:top;
@@ -100,6 +113,9 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		border-right:.5pt solid windowtext;
 		border-bottom:.5pt solid windowtext;
 		border-left:none;}
+	.xl69
+		{mso-style-parent:style0;
+		mso-number-format:Fixed;}
 	-->
 	</style>
 	</head>
@@ -118,10 +134,12 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:black;mso-pattern:black none'>Prices</td>
-		<td class=xl66 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
+		<td class=xl67 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
-		background:black;mso-pattern:black none'>Market Cap</td>
+		background:black;mso-pattern:black none'>Market Cap<span
+		style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>(INR Mil.)</td>
 		<td class=xl66 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
@@ -139,10 +157,12 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:black;mso-pattern:black none'>Prices</td>
-		<td class=xl66 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
+		<td class=xl67 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
-		background:black;mso-pattern:black none'>Market Cap</td>
+		background:black;mso-pattern:black none'>Market Cap<span
+		style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>(INR Mil.)</td>
 		<td class=xl66 width=111 style='border-left:none;width:83pt;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
@@ -153,16 +173,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:black;mso-pattern:black none'>Cap Weighted Positions</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ACCELYA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1428.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>21320.6712</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1428.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>21320.67</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
@@ -170,16 +190,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>8KMILES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>377.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11514.2924</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>377.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11514.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>53</td>
@@ -188,16 +208,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>AKSHOPTFBR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>22.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3684.3638</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3684.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>869</td>
@@ -205,16 +225,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ABGSHIP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1066.6153</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1066.62</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1854</td>
@@ -223,16 +243,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ANDHRSUGAR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>405.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10979.7219</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10979.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49</td>
@@ -240,16 +260,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ADLABS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>65.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5335.382</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5335.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>302</td>
@@ -258,16 +278,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>APLAPOLLO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1694.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>39966.1018</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1694.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>39966.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12</td>
@@ -275,16 +295,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ADORWELD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>434.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5904.4544</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>434.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5904.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>46</td>
@@ -293,16 +313,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>APTECHT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>282.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11275.9147</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11275.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>70</td>
@@ -310,16 +330,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ADSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>981.5181</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>981.52</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1015</td>
@@ -328,16 +348,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ARIES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>148.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1935.0456</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>148.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1935.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>132</td>
@@ -345,16 +365,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>AHLUCONT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>306.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20504.8921</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>306.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20504.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>65</td>
@@ -363,16 +383,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ARSSINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>48.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1111.8865</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>48.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1111.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>403</td>
@@ -380,16 +400,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ALOKTEXT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3856.4901</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3856.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7086</td>
@@ -398,16 +418,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>204</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ASHIMASYN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>22.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2948.0165</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2948.02</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>858</td>
@@ -415,16 +435,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ANSALAPI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>21.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3344.8536</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3344.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>934</td>
@@ -433,16 +453,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>23</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ASSAMCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1254.5319</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1254.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4861</td>
@@ -450,16 +470,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>63</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ASIANHOTNR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>113.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2214.7501</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2214.75</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>174</td>
@@ -468,16 +488,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ATLASCYCLE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>391.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1271.9881</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1271.99</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>50</td>
@@ -485,16 +505,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ASTRAZEN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>912.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22807.5</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>912.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22807.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22</td>
@@ -503,16 +523,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BANCOINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>208.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14918.7904</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>208.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14918.79</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>94</td>
@@ -520,16 +540,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>AUTOAXLES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>869.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13145.9071</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>869.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13145.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23</td>
@@ -538,16 +558,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>BHUSANSTL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>64.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14655.5041</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>64.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14655.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>304</td>
@@ -555,16 +575,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>46</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BAFNAPHARM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>480.4006</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>480.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>771</td>
@@ -573,16 +593,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BIRLACOT</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
@@ -590,16 +610,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BAJAJHIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15416.4152</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15416.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1459</td>
@@ -608,16 +628,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>168</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>BLKASHYAP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>42.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9242.376</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>42.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9242.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>459</td>
@@ -625,16 +645,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>44</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BALAJITELE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>152.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15427.4491</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15427.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>130</td>
@@ -643,16 +663,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BPL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>66.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3233.7307</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3233.73</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>298</td>
@@ -660,16 +680,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BBL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1101.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6224.063</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1101.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6224.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18</td>
@@ -678,16 +698,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CASTEXTECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2041.8633</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2041.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3645</td>
@@ -695,16 +715,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>76</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BFUTILITIE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>393.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14831.6285</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14831.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50</td>
@@ -713,16 +733,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CENTENKA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>308.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6737.6291</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6737.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>64</td>
@@ -730,16 +750,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>587.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7137.9013</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7137.90</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>34</td>
@@ -748,16 +768,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CINEVISTA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>910.3681</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>910.37</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1242</td>
@@ -765,16 +785,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>CIMMCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>86.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1749.8995</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1749.90</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>228</td>
@@ -783,16 +803,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CYBERTECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>56.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1547.5538</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1547.55</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>349</td>
@@ -800,16 +820,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>COREEDUTEC</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
@@ -818,16 +838,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DALMIASUG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>149.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12108.5197</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>149.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12108.52</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>132</td>
@@ -835,16 +855,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>DBREALTY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8660.0126</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8660.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>557</td>
@@ -853,16 +873,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>36</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>DEEPAKFERT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>369.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32596.1367</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32596.14</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53</td>
@@ -870,16 +890,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>DEN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>89.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17570.8821</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17570.88</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>221</td>
@@ -888,16 +908,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DHAMPURSUG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>258.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17161.192</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>258.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17161.19</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>76</td>
@@ -905,16 +925,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>DENORA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>250.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1331.9363</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>250.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1331.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>79</td>
@@ -923,16 +943,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>DONEAR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>56.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2927.6</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>56.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2927.60</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>350</td>
@@ -940,16 +960,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>DICIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>488.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4481.6355</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4481.64</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41</td>
@@ -958,16 +978,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DWARKESH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>62.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11759.4268</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11759.43</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>315</td>
@@ -975,16 +995,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>38</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>DIGJAMLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>946.5295</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>946.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1837</td>
@@ -993,16 +1013,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>DYNAMATECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2152.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13650.2731</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13650.27</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9</td>
@@ -1010,16 +1030,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>DSKULKARNI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>663.0859</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>663.09</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>772</td>
@@ -1028,16 +1048,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ECEIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>205.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1501.0964</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1501.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>96</td>
@@ -1045,16 +1065,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>EDUCOMP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>728.6796</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>728.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3335</td>
@@ -1063,16 +1083,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>EKC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3697.2431</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3697.24</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>597</td>
@@ -1080,16 +1100,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ELECON</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>57.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6462.718</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>57.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6462.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>344</td>
@@ -1098,16 +1118,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ELGIRUBCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>42.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2119.6175</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2119.62</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>465</td>
@@ -1115,16 +1135,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ESABINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>742.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11435.4746</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>742.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11435.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>27</td>
@@ -1133,16 +1153,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>EUROCERA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>231.1034</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>231.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2874</td>
@@ -1150,16 +1170,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>7</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ESSDEE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>39.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1272.2981</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>39.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1272.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>500</td>
@@ -1168,16 +1188,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>EXCELINDUS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>418.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5263.3487</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>418.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5263.35</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>47</td>
@@ -1185,16 +1205,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>EVERESTIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>343.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5313.4892</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>343.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5313.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>58</td>
@@ -1203,16 +1223,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>FACT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>39.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25300.5142</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>39.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25300.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>503</td>
@@ -1220,16 +1240,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>131</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>FEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>51.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22149.7976</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>51.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22149.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>388</td>
@@ -1238,16 +1258,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>64</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GAEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>141.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16254.1415</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16254.14</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>139</td>
@@ -1255,16 +1275,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>23</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>FLEXITUFF</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>75.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1883.6284</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>75.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1883.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>262</td>
@@ -1273,16 +1293,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GARDENSILK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1409.7646</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1409.76</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>588</td>
@@ -1290,16 +1310,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GAMMNINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2778.4006</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2778.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6726</td>
@@ -1308,16 +1328,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>139</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GARWALLROP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>879.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>19251.8364</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>879.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>19251.84</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>22</td>
@@ -1325,16 +1345,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GDL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>228.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24806.3044</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24806.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>87</td>
@@ -1343,16 +1363,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GHCL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>210.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20389.7217</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>210.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20389.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>94</td>
@@ -1360,16 +1380,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GLOBOFFS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>838.3061</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>838.31</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>585</td>
@@ -1378,16 +1398,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GITANJALI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>65.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7733.7635</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>65.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7733.76</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>302</td>
@@ -1395,16 +1415,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GTOFFSHORE</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
@@ -1413,16 +1433,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GLFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>65.1018</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>65.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8202</td>
@@ -1430,16 +1450,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GUJNRECOKE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2487.0504</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2487.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12801</td>
@@ -1448,16 +1468,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>237</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GOLDENTOBC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>53.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>943.8318</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>53.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>943.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>367</td>
@@ -1465,16 +1485,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GVKPIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18476.7617</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18476.76</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1696</td>
@@ -1483,16 +1503,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>233</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GTL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2335.8572</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2335.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1326</td>
@@ -1500,16 +1520,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HFCL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29868.9904</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29868.99</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>823</td>
@@ -1518,16 +1538,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>183</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GTLINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26083.6444</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26083.64</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3175</td>
@@ -1535,16 +1555,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>850</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HINDSYNTEX</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>116.3752</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>116.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2168</td>
@@ -1553,16 +1573,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GTNIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>293.8013</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>293.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1175</td>
@@ -1570,16 +1590,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HMVL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>250.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18414.4969</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>250.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18414.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>79</td>
@@ -1588,16 +1608,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HARRMALAYA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>73.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1354.6267</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>73.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1354.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>268</td>
@@ -1605,16 +1625,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HONDAPOWER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1305.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13237.3774</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1305.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13237.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
@@ -1623,16 +1643,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HEG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>933.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>37289.8713</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>933.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>37289.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>21</td>
@@ -1640,16 +1660,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HOTELEELA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11760</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11760.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1012</td>
@@ -1658,16 +1678,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>89</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HERITGFOOD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1447.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33570.1129</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33570.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14</td>
@@ -1675,16 +1695,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HUBTOWN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>107.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7848.2005</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>107.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7848.20</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>184</td>
@@ -1693,16 +1713,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HIKAL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>212</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17426.506</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>212.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17426.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93</td>
@@ -1710,16 +1730,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INDIANCARD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>174.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>793.7153</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>174.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>793.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>114</td>
@@ -1728,16 +1748,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HINDMOTORS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1606.6766</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1606.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2556</td>
@@ -1745,16 +1765,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>42</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INDOCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>208.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19204.134</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>208.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19204.13</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>95</td>
@@ -1763,16 +1783,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HINDOILEXP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>87.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11405.1135</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>87.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11405.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>225</td>
@@ -1780,16 +1800,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>26</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INDORAMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>26.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4030.8805</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4030.88</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>747</td>
@@ -1798,16 +1818,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HOCL</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
@@ -1815,16 +1835,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INDRAMEDCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4661.572</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4661.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>390</td>
@@ -1833,16 +1853,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>IBVENTURES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>255.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>113008.7815</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>113008.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>77</td>
@@ -1850,16 +1870,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>89</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INDSWFTLAB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1503.2048</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1503.20</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>598</td>
@@ -1868,16 +1888,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ICSA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>125.1601</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>125.16</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7571</td>
@@ -1885,16 +1905,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INEOSSTYRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>892.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15701.3253</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15701.33</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22</td>
@@ -1903,16 +1923,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>IFBIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>721.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>29248.4929</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>29248.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27</td>
@@ -1920,16 +1940,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INGERRAND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>774.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24457.308</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24457.31</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>26</td>
@@ -1938,16 +1958,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>IGPL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>624.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>19239.0825</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>19239.08</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32</td>
@@ -1955,16 +1975,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INTELLECT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>119.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14902.5068</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14902.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>167</td>
@@ -1973,16 +1993,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>IMFA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>625.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16886.2863</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16886.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>31</td>
@@ -1990,16 +2010,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ISFT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>489</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7203.7905</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>489.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7203.79</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41</td>
@@ -2008,16 +2028,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>INDIAGLYCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>244.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7560.7983</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>244.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7560.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>81</td>
@@ -2025,16 +2045,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>IVRCLINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3249.0254</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3249.03</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4781</td>
@@ -2043,16 +2063,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>116</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>INDNIPPON</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1043.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11797.6382</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11797.64</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>19</td>
@@ -2060,16 +2080,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>JCTEL</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
@@ -2078,16 +2098,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ISMTLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1494.3141</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1494.31</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1930</td>
@@ -2095,16 +2115,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>30</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>JINDALPHOT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>67.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>696.5403</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>67.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>696.54</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>292</td>
@@ -2113,16 +2133,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>JAIBALAJI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1103.6253</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1103.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1719</td>
@@ -2130,16 +2150,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>19</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>JINDALPOLY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>364.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15960.1475</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>364.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15960.15</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>54</td>
@@ -2148,16 +2168,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JAINSTUDIO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>134.395</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>134.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4188</td>
@@ -2165,16 +2185,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>JKIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>204.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15462.2462</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15462.25</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>97</td>
@@ -2183,16 +2203,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>JINDALSAW</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>112.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>35940.3628</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>112.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>35940.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>175</td>
@@ -2200,16 +2220,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>65</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>JMTAUTOLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1838.9873</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1838.99</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5436</td>
@@ -2218,16 +2238,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JPINFRATEC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18056.1355</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18056.14</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1514</td>
@@ -2235,16 +2255,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>281</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>JYOTISTRUC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1204.8048</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1204.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1804</td>
@@ -2253,16 +2273,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>KAKATCEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>348.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2708.0234</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2708.02</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>57</td>
@@ -2270,16 +2290,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>KGL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1797.0378</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1797.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16534</td>
@@ -2288,16 +2308,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>221</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>KIRLOSBROS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>237.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18823.8859</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18823.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>83</td>
@@ -2305,16 +2325,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>KITEX</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>211.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14061.425</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14061.43</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>94</td>
@@ -2323,16 +2343,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>KIRLOSIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1455.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14127.9824</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1455.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14127.98</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
@@ -2340,16 +2360,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>KKCL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1703.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20992.003</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1703.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20992.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
@@ -2358,16 +2378,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>KNRCON</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>207.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29149.9663</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>207.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29149.97</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>95</td>
@@ -2375,16 +2395,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>KOLTEPATIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>179.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13612.9624</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13612.96</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>110</td>
@@ -2393,16 +2413,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>KOHINOOR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>70</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2466.9071</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>70.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2466.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>281</td>
@@ -2410,16 +2430,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>7</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>KPIT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>120.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23887.4728</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23887.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>164</td>
@@ -2428,16 +2448,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>KSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>389.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16985.4056</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>389.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16985.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>51</td>
@@ -2445,16 +2465,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>KREBSBIO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>90.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1243.1707</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1243.17</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>219</td>
@@ -2463,16 +2483,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>LAKSHMIEFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>30.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2137.5835</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2137.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>644</td>
@@ -2480,15 +2500,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>KSBPUMPS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>735.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>735.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25604.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -2498,16 +2518,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>LML</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>750.1565</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>750.16</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2151</td>
@@ -2515,16 +2535,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>KSK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4155.0606</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4155.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2025</td>
@@ -2533,16 +2553,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>63</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>LUMAXIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1240.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11598.1985</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11598.20</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16</td>
@@ -2550,16 +2570,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>LITL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2651.2511</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2651.25</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24802</td>
@@ -2568,16 +2588,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>490</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MAHSEAMLES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>419.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28082.8932</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28082.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>47</td>
@@ -2585,16 +2605,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>LOVABLE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>245.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4128.6</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4128.60</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>81</td>
@@ -2603,16 +2623,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MANALIPETC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5581.375</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5581.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>607</td>
@@ -2620,16 +2640,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>35</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MAHLIFE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>461.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23692.8419</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23692.84</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>43</td>
@@ -2638,16 +2658,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MARALOVER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>37.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1544.0976</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>37.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1544.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>529</td>
@@ -2655,16 +2675,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MANDHANA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>258.3665</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>258.37</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2544</td>
@@ -2673,16 +2693,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MERCATOR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>37.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10026.4905</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10026.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>530</td>
@@ -2690,16 +2710,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>55</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MANINDS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>84.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4830.9185</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>84.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4830.92</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>235</td>
@@ -2708,16 +2728,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MERCK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1040.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17269.1671</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17269.17</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>19</td>
@@ -2725,16 +2745,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MANINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>60.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14862.3912</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14862.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>330</td>
@@ -2743,16 +2763,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>37</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MONNETISPA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>30</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6023.0473</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>30.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6023.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>656</td>
@@ -2760,16 +2780,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>41</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MAYURUNIQ</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>364.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16669.913</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16669.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>54</td>
@@ -2778,16 +2798,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MUKANDLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>89.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12641.684</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>89.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12641.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>220</td>
@@ -2795,16 +2815,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MBLINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>912.0017</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>912.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>902</td>
@@ -2813,16 +2833,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MUKTAARTS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>91.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2068.8043</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>91.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2068.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>215</td>
@@ -2830,16 +2850,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MCLEODRUSS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>163.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17896.0127</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>163.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17896.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>121</td>
@@ -2848,16 +2868,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MVL</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
@@ -2865,16 +2885,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MELSTAR</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
@@ -2883,16 +2903,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NAHARINDUS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>94.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3758.4456</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3758.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>209</td>
@@ -2900,16 +2920,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MINDACORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>125.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>26174.4206</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>26174.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>159</td>
@@ -2918,16 +2938,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>31</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NAHARPOLY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>52.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1290.8695</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>52.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1290.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>375</td>
@@ -2935,16 +2955,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MIRZAINT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>158.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19104.5928</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>158.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19104.59</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>125</td>
@@ -2953,16 +2973,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NEXTMEDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1205.2722</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1205.27</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1094</td>
@@ -2970,16 +2990,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MOREPENLAB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7174.7279</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7174.73</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1244</td>
@@ -2988,16 +3008,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>67</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NITCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>86</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4704.1431</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>86.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4704.14</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>229</td>
@@ -3005,16 +3025,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MOSERBAER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>942.5054</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>942.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4669</td>
@@ -3023,16 +3043,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NOCIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>142.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23398.5711</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23398.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>138</td>
@@ -3040,16 +3060,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MPSLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>584.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>10888.1092</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>10888.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>34</td>
@@ -3058,16 +3078,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>OILCOUNTUB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>44.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1962.0262</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>44.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1962.03</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>444</td>
@@ -3075,16 +3095,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MTEDUCARE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>56.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2231.9549</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2231.95</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>354</td>
@@ -3093,16 +3113,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ORIENTPPR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>98.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20953.3183</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20953.32</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>199</td>
@@ -3110,16 +3130,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>43</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>NAGAFERT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>9329.814</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>15.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>9329.81</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1272</td>
@@ -3128,16 +3148,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>88</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PANACEABIO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>208.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12767.718</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12767.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>94</td>
@@ -3145,16 +3165,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>NAVKARCORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>182.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>26040.225</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>182.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>26040.23</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>109</td>
@@ -3163,16 +3183,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>21</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PATELENG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>73.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11523.4103</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>73.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11523.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>268</td>
@@ -3180,16 +3200,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>NELCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>120.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2743.9126</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2743.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>165</td>
@@ -3198,16 +3218,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PATSPINLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>751.356</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>751.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>810</td>
@@ -3215,16 +3235,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>NIITLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>98.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16422.9115</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16422.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>201</td>
@@ -3233,16 +3253,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PFOCUS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>91.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27422.1459</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27422.15</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>215</td>
@@ -3250,16 +3270,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>60</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>NIITTECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>542.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33330.2159</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33330.22</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>37</td>
@@ -3268,16 +3288,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>9</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PHILIPCARB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>805.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>27758.4591</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>27758.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24</td>
@@ -3285,16 +3305,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>NITINFIRE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2703.494</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2703.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2145</td>
@@ -3303,16 +3323,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>43</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PNBGILTS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>47.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8469.4768</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8469.48</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>418</td>
@@ -3320,16 +3340,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>36</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>NOIDATOLL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>14.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2699.8275</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>14.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2699.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1368</td>
@@ -3338,16 +3358,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PNC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>261.8527</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>261.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1088</td>
@@ -3355,16 +3375,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>NRBBEARING</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>118.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11519.251</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>11519.25</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>167</td>
@@ -3373,16 +3393,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PRAKASH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>103.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>15807.4332</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>15807.43</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>190</td>
@@ -3390,16 +3410,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>31</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ONELIFECAP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>325.984</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>325.98</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>813</td>
@@ -3408,16 +3428,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PRIMESECU</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>893.5665</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>893.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>584</td>
@@ -3425,16 +3445,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ONWARDTEC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>130.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2001.2352</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2001.24</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>152</td>
@@ -3443,16 +3463,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PUNJABCHEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>361.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4437.6848</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>361.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4437.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>54</td>
@@ -3460,16 +3480,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ORBITCORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>193.7352</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>193.74</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11671</td>
@@ -3478,16 +3498,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>RAMCOIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>245.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>21297.447</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>21297.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>80</td>
@@ -3495,16 +3515,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PANSARI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>21.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>379.4679</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>379.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>912</td>
@@ -3513,16 +3533,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>RBL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1131.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8954.6126</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8954.61</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17</td>
@@ -3530,16 +3550,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PARAGMILK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>245.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20683.7757</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>245.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20683.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>81</td>
@@ -3548,16 +3568,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>REGENCERAM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>124.2755</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>124.28</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4188</td>
@@ -3565,16 +3585,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PARSVNATH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9073.5274</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9073.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>952</td>
@@ -3583,16 +3603,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>64</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>RICOAUTO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>92.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12554.448</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>92.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12554.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>212</td>
@@ -3600,16 +3620,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PENIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>59.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7214.9534</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7214.95</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>331</td>
@@ -3618,16 +3638,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SALORAINTL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>43.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>381.7965</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>381.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>454</td>
@@ -3635,16 +3655,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PENINLAND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>23.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6603.1089</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6603.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>839</td>
@@ -3653,16 +3673,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>41</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SESHAPAPER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>735.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9273.5393</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>735.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9273.54</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27</td>
@@ -3670,16 +3690,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PGIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>145.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3155.3524</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3155.35</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>136</td>
@@ -3688,16 +3708,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SGL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>395.3186</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>395.32</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1367</td>
@@ -3705,16 +3725,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>POLARIS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>223.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22848.5735</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>223.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22848.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>89</td>
@@ -3723,16 +3743,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SHAHALLOYS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>368.2342</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>368.23</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1058</td>
@@ -3740,16 +3760,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PRAJIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>68.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12265.6843</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>68.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12265.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>291</td>
@@ -3758,16 +3778,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>27</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SHILPI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1991.3809</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1991.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1094</td>
@@ -3775,16 +3795,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>22</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PREMIER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>28.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>856.5065</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>28.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>856.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>704</td>
@@ -3793,16 +3813,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SHREERAMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>806.0437</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>806.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1550</td>
@@ -3810,16 +3830,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PROVOGE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>968.5346</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>968.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4781</td>
@@ -3828,16 +3848,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>35</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SMLISUZU</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>883.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12787.1464</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>883.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12787.15</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>22</td>
@@ -3845,16 +3865,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>424.7772</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>424.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5836</td>
@@ -3863,16 +3883,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SONASTEER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>103.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20619.4651</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20619.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>190</td>
@@ -3880,16 +3900,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>40</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PUNJLLOYD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>21.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7077.9052</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>21.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7077.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>940</td>
@@ -3898,16 +3918,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>50</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>STARPAPER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>172.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2699.4641</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2699.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>114</td>
@@ -3915,16 +3935,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PVP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1225.2635</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1225.26</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3968</td>
@@ -3933,16 +3953,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>36</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>STCINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>156.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9366</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>156.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>9366.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>126</td>
@@ -3950,16 +3970,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RAMCOSYS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>382.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11652.1949</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>382.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11652.19</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>52</td>
@@ -3968,16 +3988,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SUBROS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>237.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14250.2919</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14250.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>83</td>
@@ -3985,16 +4005,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>RASOYPR</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
@@ -4003,16 +4023,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SUDARSCHEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>371.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25749.0756</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25749.08</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53</td>
@@ -4020,16 +4040,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>REIAGROLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>191.597</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>191.60</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>99206</td>
@@ -4038,16 +4058,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>142</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SUNDRMBRAK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>540.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2126.4411</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2126.44</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36</td>
@@ -4055,16 +4075,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>RENUKA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13091.6651</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13091.67</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1433</td>
@@ -4073,16 +4093,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>140</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SWARAJENG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2032.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25249.0408</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2032.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25249.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10</td>
@@ -4090,16 +4110,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RIIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>483.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7295.565</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7295.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41</td>
@@ -4108,16 +4128,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TAJGVK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>173</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10847.3586</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>173.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10847.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>114</td>
@@ -4125,16 +4145,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ROLTA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>52.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8688.1938</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>52.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8688.19</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>376</td>
@@ -4143,16 +4163,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>TATAMETALI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>659.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16669.8496</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>659.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16669.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>30</td>
@@ -4160,16 +4180,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RTNPOWER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16388.7801</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16388.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3575</td>
@@ -4178,16 +4198,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>437</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TFCILTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>142.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11477.9216</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>142.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11477.92</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>138</td>
@@ -4195,16 +4215,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>RUCHISOYA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8101.9425</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8101.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>818</td>
@@ -4213,16 +4233,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>49</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>TIMETECHNO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>194.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>44087.3089</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>44087.31</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>101</td>
@@ -4230,16 +4250,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>46</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RUPA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>425.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33829.7478</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>425.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>33829.75</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47</td>
@@ -4248,16 +4268,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TIRUMALCHM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1475.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15106.3432</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1475.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15106.34</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13</td>
@@ -4265,16 +4285,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SABTN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>80.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2820.0212</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>80.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2820.02</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>246</td>
@@ -4283,16 +4303,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>TNPETRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>66.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5974.1059</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>66.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5974.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>296</td>
@@ -4300,16 +4320,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SAKHTISUG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3036.5929</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3036.59</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>777</td>
@@ -4318,16 +4338,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TNPL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>349.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24213.3284</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24213.33</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56</td>
@@ -4335,16 +4355,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SAMTEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>0.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>51.2956</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>0.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>51.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33069</td>
@@ -4353,16 +4373,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>TRIGYN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2804.8063</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2804.81</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>210</td>
@@ -4370,16 +4390,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SAREGAMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>418.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7283.6793</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7283.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47</td>
@@ -4388,16 +4408,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>UBHOLDINGS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1135.9149</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1135.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1158</td>
@@ -4405,15 +4425,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>13</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SEINV</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>188.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7635.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -4423,16 +4443,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>UCALFUEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>183.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4054.5331</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4054.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>107</td>
@@ -4440,16 +4460,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SHRENUJ</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>106.099</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>106.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>36075</td>
@@ -4458,16 +4478,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>UFLEX</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>430.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>31101.487</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>430.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>31101.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>46</td>
@@ -4475,16 +4495,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SHYAMTEL</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
@@ -4493,16 +4513,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>UNITECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18052.4772</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18052.48</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2853</td>
@@ -4510,16 +4530,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>529</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1453.8341</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1453.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>878</td>
@@ -4528,16 +4548,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>USHAMART</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7466.1736</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7466.17</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>803</td>
@@ -4545,15 +4565,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>62</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SMARTLINK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>99.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>99.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2245.98</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -4563,16 +4583,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>UTTAMSUGAR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>172.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6592.174</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6592.17</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>114</td>
@@ -4580,16 +4600,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SMSPHARMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>105.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8943.487</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8943.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>188</td>
@@ -4598,16 +4618,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>UVSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>0.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3634.442</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3634.44</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>35791</td>
@@ -4615,16 +4635,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1335</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SUVEN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>177</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22528.9986</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>177.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22529.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>112</td>
@@ -4633,16 +4653,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>V2RETAIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>407.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12613.3628</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>407.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12613.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>48</td>
@@ -4650,16 +4670,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SYNCOM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>198</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>198.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4008</td>
@@ -4668,16 +4688,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VARDMNPOLY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>35.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>781.298</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>781.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>562</td>
@@ -4685,16 +4705,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TAKE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>153.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20431.8633</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20431.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>129</td>
@@ -4703,16 +4723,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VENKEYS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2000.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28181.0113</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28181.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10</td>
@@ -4720,16 +4740,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TCI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>269.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20656.7671</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20656.77</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74</td>
@@ -4738,16 +4758,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VESUVIUS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1324.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26874.0395</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1324.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26874.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15</td>
@@ -4755,16 +4775,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TDPOWERSYS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>201.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6682.4171</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6682.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>99</td>
@@ -4773,16 +4793,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VHL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3282.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10476.3765</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10476.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>6</td>
@@ -4790,16 +4810,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TEXRAIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>98.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>21707.741</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>21707.74</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>201</td>
@@ -4808,16 +4828,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>32</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VISAKAIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>593.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9432.4914</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9432.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33</td>
@@ -4825,16 +4845,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1877.5795</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1877.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1318</td>
@@ -4843,16 +4863,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VISASTEEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1919.5</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1919.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1128</td>
@@ -4860,16 +4880,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>22</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TIDEWATER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6394.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22282.1597</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6394.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22282.16</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
@@ -4878,16 +4898,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VLSFINANCE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>71</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2745.0032</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>71.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2745.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>277</td>
@@ -4895,16 +4915,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TIPSINDLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>69.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1000.8743</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>69.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1000.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>284</td>
@@ -4913,16 +4933,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>WSTCSTPAPR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>174.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11502.4173</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11502.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>113</td>
@@ -4930,16 +4950,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TODAYS</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
@@ -4948,16 +4968,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#7B7B7B;mso-pattern:#7B7B7B none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ZEEMEDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17089.659</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17089.66</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>542</td>
@@ -4965,16 +4985,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>95</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TREEHOUSE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>588.1191</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>588.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1427</td>
@@ -4983,16 +5003,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ADANITRANS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>152.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>168050.9807</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>152.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>168050.98</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>129</td>
@@ -5000,16 +5020,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>222</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TVTODAY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>349.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20860.8692</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>349.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20860.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>57</td>
@@ -5018,16 +5038,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>9</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>AEGISCHEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>235.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>78807.3</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>78807.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>83</td>
@@ -5035,16 +5055,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>67</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>UNITY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>646.6909</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>646.69</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3709</td>
@@ -5053,16 +5073,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>18</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>AIAENG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1328.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>125323.4756</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1328.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>125323.48</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>15</td>
@@ -5070,16 +5090,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>19</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>VIVIDHA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>221.5805</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>0.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>221.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22046</td>
@@ -5088,16 +5108,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>36</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ALKEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1840.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>220089.2737</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>220089.27</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11</td>
@@ -5105,16 +5125,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>24</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>WELCORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>132.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35089.4142</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>132.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35089.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>150</td>
@@ -5123,16 +5143,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>APARINDS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>742.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28420.1899</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28420.19</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27</td>
@@ -5140,16 +5160,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>8</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>WONDERLA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>345.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19537.9317</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>345.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19537.93</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>57</td>
@@ -5158,16 +5178,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>AVANTIFEED</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2029.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>92179.2517</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2029.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>92179.25</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10</td>
@@ -5175,16 +5195,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ZANDUREALT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1233.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>994.8154</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>994.82</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
@@ -5193,16 +5213,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>0</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BAJAJFINSV</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5154.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>820236.8034</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>820236.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>4</td>
@@ -5210,16 +5230,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>32</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ZODIACLOTH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>190.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3714.6511</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>190.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3714.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>104</td>
@@ -5228,16 +5248,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>BAJFINANCE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1838.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1059667.638</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1059667.64</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>11</td>
@@ -5245,16 +5265,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>116</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>3MINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14301.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>161106.2721</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14301.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>161106.27</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1</td>
@@ -5263,16 +5283,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BALKRISIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1705.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>164875.3984</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>164875.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12</td>
@@ -5280,16 +5300,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ABB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1398.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>296438.6258</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1398.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>296438.63</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>14</td>
@@ -5298,16 +5318,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>31</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>BBTC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1286.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>89789.4581</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1286.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>89789.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15</td>
@@ -5315,16 +5335,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>14</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ABBOTINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4231.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>89906.8592</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>89906.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
@@ -5333,16 +5353,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BHARATFIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>947.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>131255.7731</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>131255.77</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>21</td>
@@ -5350,16 +5370,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ACC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1656.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>311144.7161</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1656.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>311144.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
@@ -5368,16 +5388,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>BIOCON</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>332.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>199290</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>199290.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>59</td>
@@ -5385,16 +5405,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>121</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>AMARAJABAT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>709</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>121106.0625</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>709.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>121106.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>28</td>
@@ -5403,16 +5423,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>BIRLACORPN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>899.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69289.4112</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>899.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69289.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>22</td>
@@ -5420,16 +5440,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>AMBUJACEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>266.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>529075.1713</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>529075.17</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74</td>
@@ -5438,16 +5458,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>294</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CANBK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>308</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>183965.369</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>308.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>183965.37</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>64</td>
@@ -5455,16 +5475,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>121</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ANDHRABANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>55.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>48833.2228</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>48833.22</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>355</td>
@@ -5473,16 +5493,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>129</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CANFINHOME</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>2654.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>70664.7634</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>70664.76</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>7</td>
@@ -5490,16 +5510,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>5</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>APLLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>506.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>95417.3299</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>95417.33</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>39</td>
@@ -5508,16 +5528,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CAPF</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>733.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>71764.1222</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>733.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>71764.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>27</td>
@@ -5525,16 +5545,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>20</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>APOLLOHOSP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1005</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>139820.7848</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1005.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>139820.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20</td>
@@ -5543,16 +5563,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>21</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CAPLIPOINT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>690.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>52208.4189</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>690.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>52208.42</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28</td>
@@ -5560,16 +5580,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>15</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ASHOKA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>187.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>35127.8318</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>187.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>35127.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>106</td>
@@ -5578,16 +5598,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CCL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>308.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40979.2508</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40979.25</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>64</td>
@@ -5595,16 +5615,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>27</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ASHOKLEY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>123.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>360256.4494</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>123.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>360256.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>161</td>
@@ -5613,16 +5633,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>433</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CENTURYPLY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>249.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>55387.7264</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>249.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>55387.73</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>79</td>
@@ -5630,16 +5650,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>45</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>AUROPHARMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>691.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>405225.5682</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>405225.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
@@ -5648,16 +5668,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>87</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CENTURYTEX</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1222.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>136542.384</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>136542.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16</td>
@@ -5665,16 +5685,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>23</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BAJAJCORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>398.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>58727.125</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>58727.13</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50</td>
@@ -5683,15 +5703,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>22</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CESC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>986.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>986.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>130807.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -5700,16 +5720,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BATAINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>689.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>88677.5762</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>88677.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
@@ -5718,16 +5738,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>CHAMBLFERT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>140.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>58581.2552</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>58581.26</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>140</td>
@@ -5735,16 +5755,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>84</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BAYERCROP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3899.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>133897.5793</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3899.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>133897.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
@@ -5753,16 +5773,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CHENNPETRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>402.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>60003.8486</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>60003.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49</td>
@@ -5770,16 +5790,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>30</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BERGEPAINT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>245.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>237988.8272</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>245.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>237988.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>81</td>
@@ -5788,16 +5808,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>144</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>COROMANDEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>432.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>126271.6536</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>432.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>126271.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>46</td>
@@ -5805,15 +5825,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>59</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BHARTIARTL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>389.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1556787.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -5823,15 +5843,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>591</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>CUB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>162.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>162.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>107681.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -5840,16 +5860,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>134</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>BLUEDART</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4137.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>98180.2589</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>98180.26</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
@@ -5858,16 +5878,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DALMIABHA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2568.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>228539.803</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>228539.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>8</td>
@@ -5875,16 +5895,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>BOSCHLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20545.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>627051.6554</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>20545.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>627051.66</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1</td>
@@ -5893,16 +5913,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>DCBBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>181.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>55891.4575</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>181.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>55891.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>108</td>
@@ -5910,16 +5930,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>62</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>COALINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>270.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1681276.776</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1681276.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>73</td>
@@ -5928,16 +5948,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>918</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DCMSHRIRAM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>422.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>68628.9387</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>68628.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>47</td>
@@ -5945,16 +5965,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>COFFEEDAY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>217.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>44784.7737</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>217.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>44784.77</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>91</td>
@@ -5963,16 +5983,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>30</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>DELTACORP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>194.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51859.0139</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51859.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>101</td>
@@ -5980,16 +6000,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>54</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>COLPAL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1066.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>290140.6751</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>290140.68</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19</td>
@@ -5998,16 +6018,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>40</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>DHFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>549.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>172343.1076</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>172343.11</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36</td>
@@ -6015,16 +6035,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>63</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>CONCOR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1346.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>328202.4932</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>328202.49</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
@@ -6033,16 +6053,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>36</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>EDELWEISS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>268.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>229509.0115</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>268.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>229509.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>73</td>
@@ -6050,15 +6070,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>173</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>CUMMINSIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>924.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>256229.82</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -6068,16 +6088,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ELGIEQUIP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>214.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33948.8783</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33948.88</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>92</td>
@@ -6085,16 +6105,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>DIVISLAB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>855.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>227174.7373</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>227174.74</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>23</td>
@@ -6103,16 +6123,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ENGINERSIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>148.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93996.8237</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93996.82</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>132</td>
@@ -6120,16 +6140,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>128</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>DRREDDY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2328.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>386291.3663</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>386291.37</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>9</td>
@@ -6138,16 +6158,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>ESCORTS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>659.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>80857.8376</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>80857.84</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>30</td>
@@ -6155,16 +6175,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>25</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ECLERX</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1247.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>49750.5861</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>49750.59</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
@@ -6173,16 +6193,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>FEDERALBNK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>112.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>220182.3798</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>220182.38</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>175</td>
@@ -6190,16 +6210,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>395</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>EIHOTEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>135.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>77219.0278</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>135.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>77219.03</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>147</td>
@@ -6208,16 +6228,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>84</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>FINCABLES</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>541.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>82885.478</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>82885.48</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36</td>
@@ -6225,16 +6245,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>31</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ENIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>809.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>38603.5021</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>809.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>38603.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
@@ -6243,16 +6263,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>FLFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>336.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>64036.9744</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>64036.97</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>58</td>
@@ -6260,16 +6280,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>38</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GEPIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>678.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>45630.6459</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>45630.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
@@ -6278,16 +6298,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>FRETAIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>526.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>257885.9027</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>526.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>257885.90</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>37</td>
@@ -6295,16 +6315,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>99</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GET&amp;D</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>389.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>99832.544</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>389.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>99832.54</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>51</td>
@@ -6313,16 +6333,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>38</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GMDCLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>138.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>44043</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>138.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>44043.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>142</td>
@@ -6330,16 +6350,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>64</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GILLETTE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5607.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>182716.7165</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>182716.72</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4</td>
@@ -6348,16 +6368,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GNFC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>303.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>47099.6622</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>47099.66</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>65</td>
@@ -6365,16 +6385,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>31</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GLAXO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2506.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>212325.0527</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2506.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>212325.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8</td>
@@ -6383,16 +6403,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GREENPLY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>273.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33514.0671</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>273.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33514.07</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>72</td>
@@ -6400,16 +6420,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>25</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GODFRYPHLP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1008.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>52420.2701</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1008.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>52420.27</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20</td>
@@ -6418,16 +6438,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GRUH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>491.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>179646.4586</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>179646.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40</td>
@@ -6435,16 +6455,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>74</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GPPL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>133.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>64587.572</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>133.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>64587.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>149</td>
@@ -6453,16 +6473,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>71</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>GSFC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>127.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>50626.5702</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>50626.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>155</td>
@@ -6470,15 +6490,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>81</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GRINDWELL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>421</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>421.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>46613.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -6488,16 +6508,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>GUJALKALI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>559.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>41106.3204</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>41106.32</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>35</td>
@@ -6505,16 +6525,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>GSKCONS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5016.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>210984.223</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5016.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>210984.22</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4</td>
@@ -6523,16 +6543,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>6</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HCC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>34.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>34779.6052</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>34779.61</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>575</td>
@@ -6540,16 +6560,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>205</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>GUJFLUORO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>675.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74225.645</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>675.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74225.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
@@ -6558,16 +6578,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HIMATSEIDE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>329.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32446.5571</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32446.56</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>60</td>
@@ -6575,16 +6595,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>20</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HATHWAY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>30.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25496.1812</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>30.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25496.18</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>646</td>
@@ -6593,16 +6613,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>123</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HINDALCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>240.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>539812.5369</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>240.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>539812.54</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>82</td>
@@ -6610,16 +6630,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>453</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HCLTECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>874.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1217744.751</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>874.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1217744.75</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>23</td>
@@ -6628,16 +6648,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>206</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>HINDPETRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>426.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>650367.4963</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>426.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>650367.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>46</td>
@@ -6645,16 +6665,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>308</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HDIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>56.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24521.2252</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>56.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24521.23</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>351</td>
@@ -6663,16 +6683,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>64</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>HINDZINC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>295.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1250271.892</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>295.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1250271.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>67</td>
@@ -6680,16 +6700,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>854</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HEROMOTOCO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3774.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>753765.6999</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>753765.70</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5</td>
@@ -6698,16 +6718,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>30</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>IBREALEST</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>220.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>104808.0499</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>220.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>104808.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>89</td>
@@ -6715,16 +6735,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>96</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HEXAWARE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>269.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>80072.0878</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>80072.09</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>74</td>
@@ -6733,16 +6753,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>44</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>IGL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1471.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>206066.2355</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1471.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>206066.24</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13</td>
@@ -6750,16 +6770,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>28</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>HINDUNILVR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1173.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2540881.395</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1173.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2540881.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>17</td>
@@ -6768,16 +6788,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>320</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>IIFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>607.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>193553.5192</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>193553.52</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32</td>
@@ -6785,16 +6805,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>64</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>HMT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>42624.8441</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>42624.84</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>560</td>
@@ -6803,16 +6823,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>178</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>INDIACEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>172.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53094.6242</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>172.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53094.62</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>114</td>
@@ -6820,16 +6840,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>62</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>ICIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>98.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19532.6973</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19532.70</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>201</td>
@@ -6838,16 +6858,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>INDIANB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>261.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>125476.1938</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>125476.19</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>75</td>
@@ -6855,16 +6875,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>97</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ICRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3992.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39536.8647</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3992.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39536.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
@@ -6873,16 +6893,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>INFIBEAM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>128.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69801.944</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>128.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69801.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>153</td>
@@ -6890,16 +6910,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>110</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INDIGO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1096.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>421248.157</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1096.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>421248.16</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>18</td>
@@ -6908,16 +6928,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>57</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>IOC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>400.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1944789.938</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>400.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1944789.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>49</td>
@@ -6925,16 +6945,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>981</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INFRATEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>398.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>736883.9252</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>398.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>736883.93</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50</td>
@@ -6943,16 +6963,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>273</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>ITI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>137.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>90552</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>137.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>90552.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>143</td>
@@ -6960,16 +6980,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>133</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>INFY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>899.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2067059.908</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>899.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2067059.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22</td>
@@ -6978,16 +6998,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>340</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JINDALSTEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>134.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>123208.0131</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>123208.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>146</td>
@@ -6995,16 +7015,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>185</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>INOXWIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>107.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>23811.8256</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>107.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>23811.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>185</td>
@@ -7013,16 +7033,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>JISLJALEQS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>94.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>46981.0469</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>46981.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>208</td>
@@ -7030,16 +7050,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>100</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>IOB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>63326.8086</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>63326.81</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>894</td>
@@ -7048,16 +7068,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>422</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JKTYRE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>146.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33273.5375</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>146.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>33273.54</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>134</td>
@@ -7065,16 +7085,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>46</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>IPCALAB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>487.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>61540.9955</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>61541.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>41</td>
@@ -7083,16 +7103,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>JMFINANCIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>138.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>110156.8046</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>110156.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>142</td>
@@ -7100,16 +7120,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>161</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>IRB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>212.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74806.1325</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>74806.13</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>93</td>
@@ -7118,16 +7138,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>52</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JPASSOCIAT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>17.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>43662.6027</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>43662.60</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1097</td>
@@ -7135,16 +7155,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>491</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>JETAIRWAYS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>481.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>54736.899</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>54736.90</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>41</td>
@@ -7153,16 +7173,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>17</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>JSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>112.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51639.4983</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51639.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>175</td>
@@ -7170,16 +7190,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>93</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>JSWENERGY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>73.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>120954.0411</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>120954.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>269</td>
@@ -7188,16 +7208,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>242</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>JUBILANT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>659.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>105006.0909</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>105006.09</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>30</td>
@@ -7205,16 +7225,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>32</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>JUBLFOOD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1390.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>91779.0817</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>91779.08</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
@@ -7223,16 +7243,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>KIRLOSENG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>364.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>52755.1365</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>364.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>52755.14</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>54</td>
@@ -7240,16 +7260,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>29</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>JUSTDIAL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>372</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25101.8722</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>372.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25101.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>53</td>
@@ -7258,16 +7278,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>10</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>KRBL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>490</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>115341.0471</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>490.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>115341.05</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40</td>
@@ -7275,16 +7295,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>48</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>LALPATHLAB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>797.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>66453.6967</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>66453.70</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
@@ -7293,16 +7313,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>KTKBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>141.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>40003.0671</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>40003.07</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>139</td>
@@ -7310,16 +7330,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>57</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>LAOPALA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>497.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>27636.225</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>27636.23</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>40</td>
@@ -7328,16 +7348,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>L&amp;TFH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>195.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>355416.035</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>195.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>355416.04</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>101</td>
@@ -7345,16 +7365,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>368</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>LAURUSLABS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>507.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>53772.9872</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>53772.99</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
@@ -7363,16 +7383,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>LAKSHVILAS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>144.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27802.388</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>27802.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>136</td>
@@ -7380,16 +7400,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>39</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>LTI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>798.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>136681.1502</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>136681.15</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25</td>
@@ -7398,16 +7418,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MANAPPURAM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>96.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>81375.4581</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>81375.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>204</td>
@@ -7415,16 +7435,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>170</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>LTTS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>781.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>79751.387</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>79751.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
@@ -7433,16 +7453,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>15</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MANPASAND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>467.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53462.8154</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>467.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>53462.82</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>42</td>
@@ -7450,16 +7470,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>LUPIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1014</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>458163.8598</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1014.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>458163.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>20</td>
@@ -7468,16 +7488,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>67</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MARUTI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7978.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2410055.135</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7978.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2410055.13</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2</td>
@@ -7485,16 +7505,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>61</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>M&amp;M</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1254.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>779005.1226</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>779005.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>16</td>
@@ -7503,16 +7523,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>92</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MFSL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>590.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>158588.1216</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>590.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>158588.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33</td>
@@ -7520,16 +7540,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>54</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MAHINDCIE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>239.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>90637.8728</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>90637.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>83</td>
@@ -7538,16 +7558,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>56</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MGL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1094.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>108141.9114</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1094.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>108141.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>18</td>
@@ -7555,16 +7575,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>20</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>MCDOWELL-N</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>2397.65</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>348445.063</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>348445.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8</td>
@@ -7573,16 +7593,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>21</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MINDAIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>828.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>71576.4581</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>71576.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>24</td>
@@ -7590,16 +7610,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>17</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>MINDTREE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>464.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>76188.3972</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>76188.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>43</td>
@@ -7608,16 +7628,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>24</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MMTC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56100</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56100.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>351</td>
@@ -7625,16 +7645,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>202</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>NESTLEIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7216.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>695784.0145</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>7216.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>695784.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
@@ -7643,16 +7663,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MOIL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>190.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>50824.466</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>190.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>50824.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>103</td>
@@ -7660,16 +7680,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>54</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>NETWORK18</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>45.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47322.0731</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>45.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47322.07</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>439</td>
@@ -7678,16 +7698,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>155</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MOTILALOFS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1286.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>186186.4975</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1286.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>186186.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>15</td>
@@ -7695,16 +7715,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>OFSS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3634.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>310077.0622</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>310077.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
@@ -7713,16 +7733,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MRPL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>126.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>222404.7848</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>126.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>222404.78</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>155</td>
@@ -7730,16 +7750,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>354</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PCJEWELLER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>330.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>130452.7002</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>330.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>130452.70</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>60</td>
@@ -7748,16 +7768,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>58</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>MUTHOOTFIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>474.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>189754.2206</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>474.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>189754.22</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>41</td>
@@ -7765,16 +7785,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>81</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PERSISTENT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>669.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>53584</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>669.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>53584.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>30</td>
@@ -7783,16 +7803,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>MYSOREBANK</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
@@ -7800,16 +7820,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PFIZER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1817.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>83137.3534</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1817.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>83137.35</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>11</td>
@@ -7818,16 +7838,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>7</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NATCOPHARM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>787.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>137188.954</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>137188.95</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>25</td>
@@ -7835,16 +7855,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>35</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>PNCINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>137.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35210.0004</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>35210.00</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>145</td>
@@ -7853,16 +7873,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>38</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NATIONALUM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>78.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>151058.3923</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>151058.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>252</td>
@@ -7870,15 +7890,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>390</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>PRESTIGE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>273.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>102468.75</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -7888,16 +7908,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>55</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NAVINFLUOR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>698.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>34417.9118</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>34417.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28</td>
@@ -7905,16 +7925,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>10</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>RAJESHEXPO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>819.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>241936.0104</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>819.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>241936.01</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24</td>
@@ -7923,16 +7943,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>44</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NAVNETEDUL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>165.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>38712.2385</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>38712.24</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>119</td>
@@ -7940,16 +7960,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>47</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RCOM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47788.4111</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>19.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>47788.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1033</td>
@@ -7958,16 +7978,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>368</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NFL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>59.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29213.9437</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29213.94</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>331</td>
@@ -7975,16 +7995,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>99</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>REDINGTON</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>156.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>62472.0954</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>62472.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>127</td>
@@ -7993,16 +8013,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>59</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>NILKAMAL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1550.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23131.406</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1550.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>23131.41</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>13</td>
@@ -8010,16 +8030,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RELIGARE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>37.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6665.3035</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>6665.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>531</td>
@@ -8028,16 +8048,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>26</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>NMDC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>117.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>372548.1033</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>372548.10</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>167</td>
@@ -8045,16 +8065,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>639</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>RELINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>465.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>122303.4995</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>122303.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>43</td>
@@ -8063,16 +8083,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>OCL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1220.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69426.8034</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>69426.80</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>16</td>
@@ -8080,16 +8100,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>11</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>RPOWER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>115290.6978</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>115290.70</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>483</td>
@@ -8098,16 +8118,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>415</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PEL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2622.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>452520.8453</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>452520.85</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>8</td>
@@ -8115,16 +8135,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>35</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SADBHAV</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>293.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50433.2367</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50433.24</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>67</td>
@@ -8133,16 +8153,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PETRONET</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>231.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>346800.0203</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>231.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>346800.02</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>85</td>
@@ -8150,16 +8170,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>303</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SADBHIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>96.8</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>34095.4009</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>96.80</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>34095.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>205</td>
@@ -8168,16 +8188,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>52</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PFC</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>121.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>321825.9236</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>121.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>321825.92</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>161</td>
@@ -8185,16 +8205,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>533</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SANOFI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>4175.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>96170.1198</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>96170.12</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>5</td>
@@ -8203,16 +8223,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>PNB</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>129.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>274614.3037</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>274614.30</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>153</td>
@@ -8220,16 +8240,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>430</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SCHNEIDER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>118.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28429.4698</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>118.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28429.47</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>167</td>
@@ -8238,16 +8258,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>35</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>PVR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1204.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56315.3247</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1204.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56315.32</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>16</td>
@@ -8255,16 +8275,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SCI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>89.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>41735.5913</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>89.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>41735.59</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>221</td>
@@ -8273,16 +8293,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>69</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>RAIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>175.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>59180.0222</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>59180.02</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>112</td>
@@ -8290,16 +8310,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>68</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SEQUENT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>117.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28626.8161</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>28626.82</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>169</td>
@@ -8308,16 +8328,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>36</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>RAMCOCEM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>692.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>163113.3625</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>692.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>163113.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28</td>
@@ -8325,16 +8345,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>48</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SFCL</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
@@ -8343,16 +8363,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		background:#A5A5A5;mso-pattern:#A5A5A5 none'></td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>RAYMOND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>812.15</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49850.4606</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49850.46</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>24</td>
@@ -8360,16 +8380,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SHOPERSTOP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>483.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>40349.7512</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>483.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>40349.75</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>41</td>
@@ -8378,16 +8398,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>12</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>RBLBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>506.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>210682.9115</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>210682.91</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>39</td>
@@ -8395,16 +8415,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>84</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SIEMENS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1188.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>423373.5652</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>423373.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>17</td>
@@ -8413,16 +8433,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>53</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>RCF</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>88.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>48714.0592</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>88.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>48714.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>223</td>
@@ -8430,16 +8450,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>111</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SITINET</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22193.7704</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22193.77</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>780</td>
@@ -8448,16 +8468,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>129</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>RECLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>152.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>301964.9622</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>152.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>301964.96</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>129</td>
@@ -8465,16 +8485,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>399</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SOBHA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>388.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>37448.0733</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>37448.07</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>51</td>
@@ -8483,16 +8503,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>14</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SBBJ</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
@@ -8500,16 +8520,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#305496;mso-pattern:#305496 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SOLARINDS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>905.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>81920.6468</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>905.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>81920.65</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22</td>
@@ -8518,16 +8538,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SBT</td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
-		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
-		text-underline-style:none;text-line-through:none;font-family:Calibri;
-		background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
+		<td class=xl69 style='font-size:11.0pt;color:white;font-weight:400;
+		text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td style='font-size:11.0pt;color:white;font-weight:400;text-decoration:none;
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
@@ -8535,16 +8555,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-underline-style:none;text-line-through:none;font-family:Calibri;
 		background:#4472C4;mso-pattern:#4472C4 none'></td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SRTRANSFIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1054.4</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>239225.1568</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1054.40</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>239225.16</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>19</td>
@@ -8553,16 +8573,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>34</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SHARDACROP</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>442.7</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>39940.6131</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>442.70</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>39940.61</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>44</td>
@@ -8570,16 +8590,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>18</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>STAR</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>885.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>79246.0568</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>885.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>79246.06</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>22</td>
@@ -8588,16 +8608,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SOMANYCERA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>858.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36363.6665</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>36363.67</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>23</td>
@@ -8605,16 +8625,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>9</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>SUNPHARMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>503.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1207451.794</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1207451.79</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
@@ -8623,16 +8643,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>355</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SREINFRA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>102.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51591.5034</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>51591.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>192</td>
@@ -8640,16 +8660,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>102</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>SYNDIBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>62.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>56352.807</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>62.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>56352.81</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>318</td>
@@ -8658,16 +8678,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>134</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SUNCLAYLTD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4808.5</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>97285.9807</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4808.50</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>97285.98</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
@@ -8675,16 +8695,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>4</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TATAELXSI</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>813.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50649.4287</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>813.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>50649.43</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24</td>
@@ -8693,16 +8713,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>9</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SUNDRMFAST</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>439.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>92424.9635</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>92424.96</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>45</td>
@@ -8710,16 +8730,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>42</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TCS</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>2435.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4663108.857</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>4663108.86</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>8</td>
@@ -8728,16 +8748,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>283</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SUNTV</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>762.05</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>300312.1847</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>300312.18</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>26</td>
@@ -8745,16 +8765,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>80</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TECHM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>457.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>447022.8383</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>447022.84</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>43</td>
@@ -8763,16 +8783,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>144</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SUPPETRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>378.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>36487.3903</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>378.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>36487.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>52</td>
@@ -8780,16 +8800,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>19</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>THOMASCOOK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>246.2</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>90335.3891</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>246.20</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>90335.39</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>81</td>
@@ -8798,16 +8818,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>54</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>SUPRAJIT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>286</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40003.5273</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>286.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>40003.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>69</td>
@@ -8815,16 +8835,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>28</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>THYROCARE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>682.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>36655.5666</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>682.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>36655.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>29</td>
@@ -8833,16 +8853,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>8</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>SWANENERGY</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>138.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33841.8074</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>33841.81</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>142</td>
@@ -8850,16 +8870,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TORNTPHARM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1230.95</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>208304.7072</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>208304.71</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16</td>
@@ -8868,16 +8888,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>25</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TATACOMM</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>685.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>195310.5</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>685.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>195310.50</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>29</td>
@@ -8885,16 +8905,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>58</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>TORNTPOWER</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>210.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>101217.8947</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>210.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>101217.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>94</td>
@@ -8903,16 +8923,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>71</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>TIFIN</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>563.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>105716.5697</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>105716.57</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>35</td>
@@ -8920,16 +8940,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>38</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>TV18BRDCST</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>38.85</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>66602.8922</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>66602.89</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>511</td>
@@ -8938,16 +8958,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>253</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>TRENT</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>295.6</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>98232.8254</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>295.60</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>98232.83</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>67</td>
@@ -8955,16 +8975,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>67</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>UBL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>821.45</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>217195.6096</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>217195.61</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>24</td>
@@ -8973,16 +8993,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VAKRANGEE</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>494</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>261524.3632</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>494.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>261524.36</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>40</td>
@@ -8990,16 +9010,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>107</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>UCOBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29.9</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>55819.8997</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>29.90</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>55819.90</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>664</td>
@@ -9008,15 +9028,15 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>276</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VEDL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>314.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>1168128.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
@@ -9025,16 +9045,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>751</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>VBL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>510.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>93204.4457</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>93204.45</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>39</td>
@@ -9043,16 +9063,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>27</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VGUARD</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>182.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>77414.5082</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>182.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>77414.51</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>108</td>
@@ -9060,16 +9080,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>86</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>VIDEOIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16.35</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5468.4026</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5468.40</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>1214</td>
@@ -9078,16 +9098,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>49</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VIJAYABANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>54.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>60765.2915</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>60765.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>360</td>
@@ -9095,16 +9115,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>224</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>VRLLOG</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>363.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33144.1996</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33144.20</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>55</td>
@@ -9113,16 +9133,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>13</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VINATIORGA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>963.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49710.5321</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>49710.53</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>20</td>
@@ -9130,16 +9150,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>10</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>WABCOINDIA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>5989.55</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>113607.2927</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>113607.29</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
@@ -9148,16 +9168,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>3</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>VSTIND</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2851.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>44029.5465</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>2851.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>44029.55</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>7</td>
@@ -9165,16 +9185,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>3</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>WIPRO</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>280.25</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1363890.089</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>1363890.09</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>71</td>
@@ -9183,16 +9203,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>719</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#305496;mso-pattern:#305496 none'>VTL</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1337.1</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>76737.5195</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>1337.10</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>76737.52</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>15</td>
@@ -9200,16 +9220,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#305496;mso-pattern:#305496 none'>12</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#7B7B7B;
 		mso-pattern:#7B7B7B none'>WOCKPHARMA</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>615.3</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>68029.5542</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>615.30</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>68029.55</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>32</td>
@@ -9218,16 +9238,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		font-family:Calibri;background:#7B7B7B;mso-pattern:#7B7B7B none'>16</td>
 	 </tr>
 	 <tr height=20 style='height:15.0pt'>
-		<td height=20 class=xl67 style='height:15.0pt;border-top:none;font-size:11.0pt;
+		<td height=20 class=xl68 style='height:15.0pt;border-top:none;font-size:11.0pt;
 		color:white;font-weight:700;text-decoration:none;text-underline-style:none;
 		text-line-through:none;font-family:Calibri;border:.5pt solid windowtext;
 		background:#4472C4;mso-pattern:#4472C4 none'>YESBANK</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>350</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>801744.8729</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>350.00</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>801744.87</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>56</td>
@@ -9235,16 +9255,16 @@ Check out our :ref:`hml-posit` and :ref:`smb-posit`
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#4472C4;mso-pattern:#4472C4 none'>463</td>
 		<td></td>
-		<td class=xl67 style='border-top:none;font-size:11.0pt;color:white;
+		<td class=xl68 style='border-top:none;font-size:11.0pt;color:white;
 		font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
 		none;font-family:Calibri;border:.5pt solid windowtext;background:#A5A5A5;
 		mso-pattern:#A5A5A5 none'>ZENSARTECH</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>749.75</td>
-		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
-		text-decoration:none;text-underline-style:none;text-line-through:none;
-		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33695.5824</td>
+		<td class=xl69 align=right style='font-size:11.0pt;color:white;font-weight:
+		400;text-decoration:none;text-underline-style:none;text-line-through:none;
+		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>33695.58</td>
 		<td align=right style='font-size:11.0pt;color:white;font-weight:400;
 		text-decoration:none;text-underline-style:none;text-line-through:none;
 		font-family:Calibri;background:#A5A5A5;mso-pattern:#A5A5A5 none'>26</td>
