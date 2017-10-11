@@ -14,7 +14,7 @@ of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here.
 
 .. raw:: html
 
-  <p align = "center"><iframe width="950" height="650" frameborder="0" scrolling="auto" src="_static/bubble_fig1.html"></iframe></p>
+  <p align = "center"><iframe width="950" height="650" frameborder="0" scrolling="auto" src="_static/bubble.html"></iframe></p>
 
 
 
