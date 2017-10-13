@@ -1,5 +1,3 @@
-
-
 Liquidity Risk and Transaction Cost
 ====================================
 
