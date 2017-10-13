@@ -29,7 +29,7 @@ Intraday of present 500 constituents of NIFTY500.
 
 .. raw:: html
 
-  <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/Bid_Ask.html"></iframe>
+  <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/Bid_Ask1.html"></iframe>
 
 
 'In the Figure above, we notice that the average Bid/Ask Spread as a percentage of the Mid-Price (average intraday) of NIFTY500 constituents is a decreasing function of Volume, implying
