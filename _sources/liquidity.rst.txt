@@ -32,8 +32,8 @@ Intraday of present 500 constituents of NIFTY500.
   <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/Bid_Ask1.html"></iframe>
 
 
-'In the Figure above, we notice that the average Bid/Ask Spread as a percentage of the Mid-Price (average intraday) of NIFTY500 constituents is a decreasing function of Volume, implying
-that higher trading volume comes with tighter spreads and better quality in Market Microstructure.'
+`In the Figure above, we notice that the average Bid/Ask Spread as a percentage of the Mid-Price (average intraday) of NIFTY500 constituents is a decreasing function of Volume, implying
+that higher trading volume comes with tighter spreads and better quality in Market Microstructure.`
 
 
 Another important determinant of Bid/Ask Spread is volatility. Many studies (Chordia, Roll, and Subhramanyam, 2000, 2001, 2002) [#]_ find that higher liquidity is generally
