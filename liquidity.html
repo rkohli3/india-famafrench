@@ -4,7 +4,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>&lt;no title&gt; &#8212; Smart Beta in India  documentation</title>
+    <title>Liquidity Risk and Transaction Cost &#8212; Smart Beta in India  documentation</title>
     
     <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -31,6 +31,7 @@
     <link rel="shortcut icon" href="_static/logo1.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Short Availabilities" href="shrt_avail.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -68,12 +69,12 @@
   <ul class="dropdown-menu globaltoc"
       role="menu"
       aria-labelledby="dLabelGlobalToc"><p class="caption"><span class="caption-text">Contents:</span></p>
-<ul>
+<ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="method.html">Methodology for India</a></li>
 <li class="toctree-l1"><a class="reference internal" href="crnt_posit.html">Current Positions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="shrt_sllng_ind.html">Short Selling in India</a></li>
-<li class="toctree-l1"><a class="reference internal" href="liquidity.html">Liquidity Risk and Transaction Cost</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Liquidity Risk and Transaction Cost</a></li>
 </ul>
 </ul>
 </li>
@@ -86,7 +87,8 @@
      href="#">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"
       role="menu"
-      aria-labelledby="dLabelLocalToc"><ul class="simple">
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Liquidity Risk and Transaction Cost</a></li>
 </ul>
 </ul>
 </li>
@@ -95,6 +97,10 @@
             
               
                 
+  <li>
+    <a href="shrt_avail.html" title="Previous Chapter: Short Availabilities"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Short Availabilities</span>
+    </a>
+  </li>
               
             
             
@@ -122,7 +128,34 @@
   <div class="row">
     <div class="col-md-12 content">
       
-  
+  <div class="section" id="liquidity-risk-and-transaction-cost">
+<h1>Liquidity Risk and Transaction Cost<a class="headerlink" href="#liquidity-risk-and-transaction-cost" title="Permalink to this headline">¶</a></h1>
+<p>To implement a portfolio, constituents of which are Small Cap stocks, requires understanding of the Liquidity Risk and Transaction Cost. Investors
+should not underestimate the indirect costs associated with liquidity and the the bid/ask spread. In times of low liquidity, many investors rely
+on the dealers, or market markers for the provision of liquidity <a class="footnote-reference brackets" href="#id3" id="id1">1</a> Bondarenko (2001), decomposes the bid/ask spread into two components, Adverse Selection
+&amp; Imperfect Competition, in which he argues that market makers post prices that are steeper than efficient prices, which then becomes the source of their profit.</p>
+<p>Bid/Ask Spread is the difference between the highest price (Ask) and investor is willing to sell its securities and the lowest price (bid) at which the
+investor is willing to buy its securities. One of the determinants for this Spread is the Volume of shares traded. Intuitively, it makes sense. Consider an example
+when the market has less number of shares of a Security “A”. This Security A is considered illiquid, which implies, lesser people trading the security at a particular
+point in time. Because it is more difficult for the market maker to convert this Security A to cash, the broker needs to compensated more, thus adding to the Bid/Ask
+Spread and Transaction Cost.</p>
+<p>To study how the Transaction Cost behaves with respect to Volume we studied the average Bid-Ask Spread as the percentage of the Average Mid-Price
+Intraday of present 500 constituents of NIFTY500.</p>
+<iframe align = "center" width="1050" height="650" frameborder="0" scrolling="auto" src="_static/Bid_Ask.html"></iframe><p>Another important determinant of Bid/Ask Spread is volatility. Many studies (Chordia, Roll, and Subhramanyam, 2000, 2001, 2002) find that higher liquidity is generally
+associated with lower volatility and Transaction Cost <a class="footnote-reference brackets" href="#id4" id="id2">2</a>. This makes sense intuitively, as volatility usually increases during a rapid decline or advancement of market,
+in which case market makers step in to take advantage of - and profit from - the change. As the price of a security advance increasingly, more investors are willing to pay a higher
+price for the security enabling the market maker to charge a higher (premium) than efficient price on the security.</p>
+<p class="rubric">Footnotes</p>
+<dl class="footnote brackets">
+<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>Bondarenko, O. “Competing Market Makers, Liquidity Provision and Bid-Ask Spread”, <a class="reference external" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=253894">Journal of Financial Markets, Vol. 4, pp. 269-308, 2001</a></p>
+</dd>
+<dt class="label" id="id4"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>Li &amp; Wu, “Daily Return Volatility, Bid-Ask Spreads and Information Flow: Analyzing the Information Content of Volume”, <a class="reference external" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2362240">Journal of Business, Vol. 7, No.5, 2006</a></p>
+</dd>
+</dl>
+</div>
+
 
     </div>
       
