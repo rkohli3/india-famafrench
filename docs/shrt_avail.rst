@@ -7,8 +7,8 @@ The table below shows the short availabilities. Although the NSE website updates
 table once every week on Friday morning at 9:00am EST. The `Series` column depicts the maximum tenure, in months, for which the security
 can be lent/borrowed.
 
-Off the **339** stocks available for short_selling, **only 301** of them intersect with our total portfolio of HML, SMB and WML. The intersection
-of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here.
+Off the **338** stocks available for short selling, **304** of them intersect with our total portfolio of HML, SMB and WML. The intersection
+of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here. These numbers are as of October 13, 2017 9:00 am EST.
 
 
 
@@ -113,7 +113,7 @@ of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here.
 
   <body link=blue vlink=purple>
 
-  <table border=0 cellpadding=0 cellspacing=0 width=666 style='border-collapse:
+  <table align = center border=0 cellpadding=0 cellspacing=0 width=666 style='border-collapse:
    collapse;table-layout:fixed;width:498pt'>
    <col width=111 span=6 style='width:83pt'>
    <tr height=45 style='height:34.0pt'>
