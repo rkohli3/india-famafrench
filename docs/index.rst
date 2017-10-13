@@ -84,7 +84,7 @@ The Fama/French factor replicating portfolios, both long and short, outperformed
 
    Fama
    method
-   crnt_posit
+   crnt_posititions
    shrt_sllng_ind
    liquidity
 
