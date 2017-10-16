@@ -33,9 +33,9 @@ of `NIFTY 500 Index <https://www.nseindia.com/products/content/equities/indices/
 
 .. raw:: html
 
-	<iframe align = "center" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/btom_rnge.html"></iframe>
+	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_BM.html"></iframe>
 
-	<iframe align = "center" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/ME_range.html"></iframe>
+	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_ME.html"></iframe>
 
 
 
