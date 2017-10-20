@@ -106,7 +106,7 @@ of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here. Th
 
   <body link="#0563C1" vlink="#954F72">
 
-  <table border=0 cellpadding=0 cellspacing=0 width=777 style='border-collapse:
+  <table align=center border=0 cellpadding=0 cellspacing=0 width=777 style='border-collapse:
    collapse;table-layout:fixed;width:581pt'>
    <col width=111 span=7 style='width:83pt'>
    <tr height=51 style='height:38.0pt'>
