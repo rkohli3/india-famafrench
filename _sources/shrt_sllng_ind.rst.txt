@@ -8,12 +8,12 @@ the seller does not own at the time of trade. Short selling can be done by borro
 House of a stock exchange which is registered as Approved Intermediaries (AI's). Short selling can be done by retail as well as
 institutional investors. The Securities Lending and Borrowing mechanism allows short sellers to borrow securities for making delivery.`
 
-Short Selling intraday is not limited to restrictions, provided the investor covers (buys) his/her position the same day, i.e. Intraday Trading.
+Short Selling intraday is not limited by restrictions, provided the investor covers (buys) his/her position the same day, i.e. Intraday Trading.
 
 
 The National Securities Clearing Corporation Ltd. as an Approved Intermediary launched the Securities Lending  & Borrowing Scheme (SLBS)
-on April 21, 2008. This scheme is facilitated on an automated screen based platform where the order matching is o price time priority and
-where the participant need to quote the lending fee per share on the order matching platform. [#]_
+on April 21, 2008. This scheme is facilitated on an automated screen based platform where the order matching is on price time priority and
+where the participant needs to quote the lending fee per share on the order matching platform. [#]_
 
 According to the SLBS `website <https://www.nseindia.com/products/content/equities/slbs/features_slbs.htm>`_,
 
