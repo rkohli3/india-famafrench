@@ -14,7 +14,7 @@ India's Smart Beta
 
 
 	<div class = "intrinsic container">
-		<iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_sep_facs.html"></iframe>
+		<iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_facs.html"></iframe>
 	</div>
 
 
