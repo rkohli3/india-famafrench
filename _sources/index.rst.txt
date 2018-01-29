@@ -14,7 +14,7 @@ India's Smart Beta
 
 
 	<div class = "intrinsic container">
-		<iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_sep1.html"></iframe>
+		<iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_sep_facs.html"></iframe>
 	</div>
 
 
@@ -31,22 +31,50 @@ economy variables, namely future real GDP (gross domestic product) growth. These
 understand the importance of risks and returns available in both the domestic (United States markets) and the
 developed international markets.
 
-However, emerging market research into Fama-French factors has been spotty and suspect at best. In this work,
+However, emerging market research into Fama-French factors has been limited and suspect at best. In this work,
 we work we attempt to provide more transparency into the emerging market Fama-French factor world by understanding
 the subtle nuances within these markets. Our first market that we examine is the Indian Stock Market.
 
-In `Figure 1` above, the aggregate performance of Long only High B/M, Small ME and Winners portfolio has been impressive. It has outperformed the market (Nifty 50), which is used as a market proxy,
-significantly.
-The portfolio of High B/M, Small ME and Winners have grown by 62x, 132x and 105x, respectively over the past 21.5 years whereas Nifty 50 has grown by 9.9x in the same period.
-The annualized returns for High B/M, Small ME, Winners and Nifty 50 index are **21%**, **26%**, **24%** and **11%** respectively. This illustrates the outperformance of the factors compared with the
-proxy index. The equity lines are free from survivorship bias, which you can learn more about in the :ref:`survivors` section. To learn more about methodology check our :ref:`method-india` section.
+
+The Factors
+------------
+
+We document the returns of the Fama-French factor mimicking portfolio from March 31, 1996 – September 29, 2017. The factors, namely High Book–to-Market  `minus` Low Book-to-Market (HML), Small Market Equity
+`minus` Big Market Equity (SMB), Winners `minus` Losers (WML) and Market Risk Premium (MRP), have positive average annualized returns of 5.45%, 12.18%, 5.71% and 6.81% respectively. Moreover, WML shows a
+negative correlation with HML and SMB, however, has a negligible correlation with MRP (See Appendix for descriptive statistics).
+The Fama/French factor replicating portfolios, both long and short, outperformed the excess returns to Market, which is given by :math:`MRP` where :math:`MRP = R_{m} - R_{f}` and
+:math:`R_{f}` is the yield on 91 days Indian T-bill  in this period. HML, however, has underperformed the :math:`MRP`
+
+
+.. raw:: html
+
+	<iframe align = "left" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/FamaFrenchFacs.html"></iframe>
 
 
 
+
+
+However, due to unavailability of stocks required to be short sold and high liquidity risk eventually leading to high transaction cost and more market impact, we find that implementing these factors in India
+to be extremely difficult. We document these results in the following section :ref:`shrt-avl` and :ref:`liqtcost`. We discuss and propose alternative solutions of long-only portfolios.
+
+
+Long Only Portfolios
+---------------------
+
+In Figure above (top), the aggregate performance of long-only equally weighted (EW) (See Appendix for long only value weighted) portfolios based on Value (High B/M), Size (Small Cap), and Momentum(Winner)
+has been nothing but impressive. It has outperformed the market (Nifty 50), which is used as a market proxy as it is indicative of the broader market, significantly. The portfolio of High B/M, Small Cap
+and Winners has grown by 61x, 132x and 105x, respectively over the past 21.5 years (from March 31, 1996 – September 29, 2017) whereas Nifty 50 has grown by 9.9x in the same period.
+To learn more about methodology check our :ref:`method-india` section.
+
+The annualized returns for these long-only value weighted (VW) portfolios based on Value, Size, Momentum and Nifty 50 index are 18.7%, 27.37%, 21.27% and 13.54%, respectively (See Appendix for yearly returns).
+This illustrates the outperformance of the long only factor portfolios compared with the market proxy.
+
+
+These back-tested portfolios are free of **Survivorship Bias** and **Look Ahead Bias**, about which you can learn more about in :ref:`survivors` and :ref:`lookahead`.
 
 
 The Indian Market
------------------
+------------------
 
 
 .. raw:: html
@@ -66,14 +94,11 @@ Our universe, the Nifty 500 index accounts for approximately  95.2% of the free 
 It is also interesting to note that the BSE Sensex, which consists of 30 Largest stocks in BSE,  has provided an aggregate of **97%** returns in this period and in the `Figure 2` above that
 the Risk Free (:math:`R_{f}`) rate in India has been steadily declining, currently at an annualized yield of 5.8% `(See figure above).`
 
-The Fama/French factor replicating portfolios, both long and short, outperformed the excess returns to Market, which is given by :math:`MRP` where :math:`MRP = R_{m} - R_{f}` and
-:math:`R_{f}` is the yield on 91 days Indian T-bill  in this period. HML, however, has underperformed the :math:`MRP`
 
 
 
-.. raw:: html
 
-	<iframe align = "left" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/FamaFrench.html"></iframe>
+
 
 
 

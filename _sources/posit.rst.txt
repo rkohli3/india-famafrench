@@ -11,8 +11,6 @@ Check out our :ref:`smb-posit` and :ref:`wml-posit`
 
 .. raw:: html
 
-
-
   <html xmlns:v="urn:schemas-microsoft-com:vml"
   xmlns:o="urn:schemas-microsoft-com:office:office"
   xmlns:x="urn:schemas-microsoft-com:office:excel"

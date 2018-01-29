@@ -90,6 +90,8 @@
       aria-labelledby="dLabelLocalToc"><ul>
 <li><a class="reference internal" href="#">India’s Smart Beta</a><ul>
 <li><a class="reference internal" href="#summary">Summary</a></li>
+<li><a class="reference internal" href="#the-factors">The Factors</a></li>
+<li><a class="reference internal" href="#long-only-portfolios">Long Only Portfolios</a></li>
 <li><a class="reference internal" href="#the-indian-market">The Indian Market</a></li>
 </ul>
 </li>
@@ -136,7 +138,7 @@
 <h1>India’s Smart Beta<a class="headerlink" href="#india-s-smart-beta" title="Permalink to this headline">¶</a></h1>
 <p><cite>Compiled by Prof. Jim Kyung-Soo Liew and Ravpritpal (Ravi) Kohli (MS in Finance Johns Hopkins University)</cite></p>
 <div class = "intrinsic container">
-        <iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_sep1.html"></iframe>
+        <iframe align = "left" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/cum_rets_sep_facs.html"></iframe>
 </div><div class="section" id="summary">
 <h2>Summary<a class="headerlink" href="#summary" title="Permalink to this headline">¶</a></h2>
 <p>Fama and French (1992, 1993) <a class="footnote-reference brackets" href="#id5" id="id1">1</a> introduced pioneering research that has made factor investing pervasive.
@@ -146,14 +148,29 @@ or large capitalization stocks) has become staples in the business school classr
 economy variables, namely future real GDP (gross domestic product) growth. These results have helped investors better
 understand the importance of risks and returns available in both the domestic (United States markets) and the
 developed international markets.</p>
-<p>However, emerging market research into Fama-French factors has been spotty and suspect at best. In this work,
+<p>However, emerging market research into Fama-French factors has been limited and suspect at best. In this work,
 we work we attempt to provide more transparency into the emerging market Fama-French factor world by understanding
 the subtle nuances within these markets. Our first market that we examine is the Indian Stock Market.</p>
-<p>In <cite>Figure 1</cite> above, the aggregate performance of Long only High B/M, Small ME and Winners portfolio has been impressive. It has outperformed the market (Nifty 50), which is used as a market proxy,
-significantly.
-The portfolio of High B/M, Small ME and Winners have grown by 62x, 132x and 105x, respectively over the past 21.5 years whereas Nifty 50 has grown by 9.9x in the same period.
-The annualized returns for High B/M, Small ME, Winners and Nifty 50 index are <strong>21%</strong>, <strong>26%</strong>, <strong>24%</strong> and <strong>11%</strong> respectively. This illustrates the outperformance of the factors compared with the
-proxy index. The equity lines are free from survivorship bias, which you can learn more about in the <a class="reference internal" href="Fama.html#survivors"><span class="std std-ref">Survivorship Bias in Indian Equity Markets</span></a> section. To learn more about methodology check our <a class="reference internal" href="method.html#method-india"><span class="std std-ref">Methodology for India</span></a> section.</p>
+</div>
+<div class="section" id="the-factors">
+<h2>The Factors<a class="headerlink" href="#the-factors" title="Permalink to this headline">¶</a></h2>
+<p>We document the returns of the Fama-French factor mimicking portfolio from March 31, 1996 – September 29, 2017. The factors, namely High Book–to-Market  <cite>minus</cite> Low Book-to-Market (HML), Small Market Equity
+<cite>minus</cite> Big Market Equity (SMB), Winners <cite>minus</cite> Losers (WML) and Market Risk Premium (MRP), have positive average annualized returns of 5.45%, 12.18%, 5.71% and 6.81% respectively. Moreover, WML shows a
+negative correlation with HML and SMB, however, has a negligible correlation with MRP (See Appendix for descriptive statistics).
+The Fama/French factor replicating portfolios, both long and short, outperformed the excess returns to Market, which is given by <span class="math">\(MRP\)</span> where <span class="math">\(MRP = R_{m} - R_{f}\)</span> and
+<span class="math">\(R_{f}\)</span> is the yield on 91 days Indian T-bill  in this period. HML, however, has underperformed the <span class="math">\(MRP\)</span></p>
+<iframe align = "left" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/FamaFrenchFacs.html"></iframe><p>However, due to unavailability of stocks required to be short sold and high liquidity risk eventually leading to high transaction cost and more market impact, we find that implementing these factors in India
+to be extremely difficult. We document these results in the following section <a class="reference internal" href="shrt_sllng_ind.html#shrt-avl"><span class="std std-ref">Short Selling in India</span></a> and <a class="reference internal" href="liquidity.html#liqtcost"><span class="std std-ref">Liquidity Risk and Transaction Cost</span></a>. We discuss and propose alternative solutions of long-only portfolios.</p>
+</div>
+<div class="section" id="long-only-portfolios">
+<h2>Long Only Portfolios<a class="headerlink" href="#long-only-portfolios" title="Permalink to this headline">¶</a></h2>
+<p>In Figure above (top), the aggregate performance of long-only equally weighted (EW) (See Appendix for long only value weighted) portfolios based on Value (High B/M), Size (Small Cap), and Momentum(Winner)
+has been nothing but impressive. It has outperformed the market (Nifty 50), which is used as a market proxy as it is indicative of the broader market, significantly. The portfolio of High B/M, Small Cap
+and Winners has grown by 61x, 132x and 105x, respectively over the past 21.5 years (from March 31, 1996 – September 29, 2017) whereas Nifty 50 has grown by 9.9x in the same period.
+To learn more about methodology check our <a class="reference internal" href="method.html#method-india"><span class="std std-ref">Methodology for India</span></a> section.</p>
+<p>The annualized returns for these long-only value weighted (VW) portfolios based on Value, Size, Momentum and Nifty 50 index are 18.7%, 27.37%, 21.27% and 13.54%, respectively (See Appendix for yearly returns).
+This illustrates the outperformance of the long only factor portfolios compared with the market proxy.</p>
+<p>These back-tested portfolios are free of <strong>Survivorship Bias</strong> and <strong>Look Ahead Bias</strong>, about which you can learn more about in <a class="reference internal" href="Fama.html#survivors"><span class="std std-ref">Survivorship Bias in Indian Equity Markets</span></a> and <a class="reference internal" href="LookAhead.html#lookahead"><span class="std std-ref">Look Ahead Bias</span></a>.</p>
 </div>
 <div class="section" id="the-indian-market">
 <h2>The Indian Market<a class="headerlink" href="#the-indian-market" title="Permalink to this headline">¶</a></h2>
@@ -164,16 +181,20 @@ Whereas the Market Capitalization for 1,681 companies listed in NSE is approxima
 <p>Our universe, the Nifty 500 index accounts for approximately  95.2% of the free float market capitalization of the stocks listed on NSE as on March 31, 2017. <a class="footnote-reference brackets" href="#id8" id="id4">4</a></p>
 <p>It is also interesting to note that the BSE Sensex, which consists of 30 Largest stocks in BSE,  has provided an aggregate of <strong>97%</strong> returns in this period and in the <cite>Figure 2</cite> above that
 the Risk Free (<span class="math">\(R_{f}\)</span>) rate in India has been steadily declining, currently at an annualized yield of 5.8% <cite>(See figure above).</cite></p>
-<p>The Fama/French factor replicating portfolios, both long and short, outperformed the excess returns to Market, which is given by <span class="math">\(MRP\)</span> where <span class="math">\(MRP = R_{m} - R_{f}\)</span> and
-<span class="math">\(R_{f}\)</span> is the yield on 91 days Indian T-bill  in this period. HML, however, has underperformed the <span class="math">\(MRP\)</span></p>
-<iframe align = "left" width="100%" height="600" frameborder="0" scrolling="auto" src="_static/FamaFrench.html"></iframe><div class="toctree-wrapper compound">
+<div class="toctree-wrapper compound">
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Fama.html#calculating-survivorship-bias">Calculating Survivorship Bias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Fama.html#understanding-survivorship-bias">Understanding Survivorship Bias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Fama.html#cnx-500-and-our-constituents">CNX 500 and our constituents</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="method.html">Methodology for India</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="method.html#initial-steps">Initial Steps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method.html#data">Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method.html#one-dimensional-sorting">One Dimensional sorting</a></li>
 <li class="toctree-l2"><a class="reference internal" href="method.html#dimensional-sorting">1-Dimensional Sorting</a></li>
-<li class="toctree-l2"><a class="reference internal" href="method.html#id4">2-Dimensional Sorting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method.html#id3">2-Dimensional Sorting</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="crnt_posititions.html">Current Positions</a><ul>
