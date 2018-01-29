@@ -3,40 +3,22 @@
 Methodology for India
 =======================
 
+Data
+-----
+
+The data have been extracted primarily from Centre for Monitoring Indian Economy (`CMIE ProwessDx <https://www.cmie.com/kommon/bin/sr.php?kall=wproducts&tabno=7010&prd=prowessdx&portal_code=030010040005000000000000000000000000000000000>`_). ProwessDx delivers financial performance data
+and markets data on Publicly Listed companies in India. Other sources of Data are Bloomberg, Quandl API and Reserve Bank of India.
 
 For each of the methodology below, we rebalance the portfolio every month and deploy a buy and hold strategy for ``currently`` equally weighted portfolio.
 
-Initial Steps
---------------
+One Dimensional sorting
+---------------------------
 
-Our present approach is to test our hypothesis, whether Fama/French factor portfolios can be applied to India, on all the constituents
-of `NIFTY 500 Index <https://www.nseindia.com/products/content/equities/indices/nifty_500.html>`_
+We apply the standard practice for sorting Winners and Losers as mentioned by Jegadeesh and Titman (1993) and popularized by Asness (1994)
+where the stocks are ranked based on their cumulative returns for the past eleven months i.e t−12 to t−1, excluding the most recent month as
+it is not an indicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered Losers.
 
-- Filtering Stock Price data:
-	Our main source of data is ProwessDx, which provides fundamental data on almost 23000 public companies since 1900. The data source
-	ProwessDx also contains Closing Prices for NSE and BSE stocks. We adjust Closing Prices for stock splits and dividends by the factor provided
-	by ProwessDx at a particular date.
-
-- Filtering Fundamental data:
-	About 89% of the companies in India [#]_ file their financial statements on 31st March of every year. Assuming a 3 month
-	lag before this information is available to public, we sort our portfolios on 1st July every month and rebalance every month for
-	an equally weighted portfolio. We front fill any fundamental data not available for a particular quarter or year. We noticed that
-	the front filling was not extensive as ProwessDx provided very exhaustive and comprehensive data for both BSE and NSE companies
-
-
-	We have illustrated our findings of the BM ratio and ME ranges from 1995 to 2017 for all 2756 NSE [#]_ that have been listed ever on NSE,
-	out of which only 1681 survived by March of 2017.
-
-
-
-
-
-.. raw:: html
-
-	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_BM.html"></iframe>
-
-	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_ME.html"></iframe>
-
+For the 1-D portfolios, we simply buy the Winners and short sell the Losers, thus to form Winners `minus` Losers (WML)
 
 
 
@@ -75,9 +57,11 @@ suspensions and delisting for firms and include companies only.
 1-Dimensional Sorting
 ----------------------------
 
-We apply the standard practice for sorting Winners and Losers as mentioned by Jegadeesh and Titman [#]_ where the stocks are ranked based on their cumulative returns for the past
-eleven months i.e :math:`t-12` to :math:`t-1`, excluding the most recent month as it is not an indicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered
-Losers. For the 1-D portfolios, we simply buy the Winners and short sell the Losers, thus to form Winners minus Losers (WML)
+We apply the standard practice for sorting Winners and Losers as mentioned by Jegadeesh and Titman (1993) [#]_ and popularized by Asness (1994) [#]_
+where the stocks are ranked based on their cumulative returns for the past eleven months i.e t−12 to t−1, excluding the most recent month as
+it is not an indicator of momentum. The top 30% are considered as the Winners and bottom 30% are considered Losers.
+
+For the 1-D portfolios, we simply buy the Winners and short sell the Losers, thus to form Winners `minus` Losers (WML)
 
 .. math::
 
@@ -107,90 +91,100 @@ deciles, where High BM stocks are :math:`\geq \text{70th percentile}` and Low BM
 2-Dimensional Sorting
 ----------------------
 
-- For 2-D sorting, we use the intersection of `2 X 3` portfolios for Size and Value, `2 X 3` portfolios for Size and Momentum and `3 X 3` portfolios for Momentum and Value.
-  The intersectional sorts uses 3 parameters
+Following the methodology used by Fama-French (1993), we apply the sorting of portfolios based on Value and Size.
+The HML and SMB are formed by the intersection of 3 portfolios based on Value and 2 portfolios based on Size.
+The figure below shows the sorting of the 4 most recent periods. To check the behavior of the sorting, please visit Appendix.
 
-  i. :math:`\text{B/M}`
-  ii. :math:`\text{ME}`
-  iii. :math:`\text{Cumulative returns or MOM}`
+.. raw:: html
+
+	<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sortingsmall2018.html"></iframe>
+
+	<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sortingsmall2017.html"></iframe>
+
+	<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sortingsmall2016.html"></iframe>
+
+	<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sortingsmall2015.html"></iframe>
 
 
 
 
+The breakpoint for 2 portfolios based on Size is the Median ME of the universe of stocks used to form the above portfolios,
+where Small is considered stocks having ME :math:`< \text{Median}` and Big is considered stocks having ME :math:`\geq \text{Median}`.
+The breakpoint for the 3 portfolios formed on Value are the 30th, 70th and 100th quintiles, deciles of the B/M ratio
+of the universe of stocks we cover, where High B/M stocks are :math:`\geq \text{70th percentile}` and Low B/M stocks are :math:`< \text{30th percentile}`.
 
-  The figures below illustrate the sorted clusters of a sample of 300 stocks for different periods based on the ME and B/M ratio. The sorting
-  was done using the cutoff points described above.
+We have illustrated our findings of the BM ratio and ME ranges from 1995 to 2017 for the universe of our stocks in the study.
+
+
 
 
 .. raw:: html
 
-	<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2017.html"></iframe>
+	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_BM.html"></iframe>
 
-	<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2016.html"></iframe>
-
-	<iframe align = "left" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2015.html"></iframe>
-
-	<iframe align = "right" width="50%" height="350" frameborder="0" scrolling="no" src="_static/sorting_small2009.html"></iframe>
+	<iframe align = "center" width="100%" height="670" frameborder="0" scrolling="auto" src="_static/Sorting_ME.html"></iframe>
 
 
 
 
 
-The methodology for **2-D** sorting for `Momentum` and `Size` is illustrated below.
+To construct the HML and SMB we take the intersection of the 2 X 3 portfolios and get the 6 portfolios, namely Small Value (SV),
+Small Neutral (SN), Small Growth (SG), Big Value (BV), Big Neutral (BN) and Big Growth (BG).
 
 
+.. figure:: _static/Crossection1.png
+	:scale: 50%
+	:align: center
 
-.. image:: _static/ports.png
-   :align: center
-   :scale: 60%
+	`Figure above shows the cross-section of portfolios based on Size and Value using their respective cut-off points.`
 
-
-
-
-
-- In the case above for the cross section of `2 X 3` portfolios for Size and Momentum
 
 .. math::
 
-	    WML_{(ME)} = \frac{1}{2}(SW + BW) - \frac{1}{2}(SL + BL)
+	    HML = \frac{1}{2}(SV + BV) - \frac{1}{2}(SG + BG)
 
 .. math::
 
-	    SMB_{(MOM)} = \frac{1}{3}(SW + SN + SL) - \frac{1}{3}(BW + BN + BL)
-
-- Similarly, we find the cross sections for `2 X 3` portfolios for **Size & Value** and `3 X 3` portfolios for **Momentum and Value.**  The cross sections of these portfolios provides us
+	    SMB = \frac{1}{3}(SV + SN + SG) - \frac{1}{3}(BV + BN + BG)
 
 
-	i. :math:`WML_{(ME)}`
-	ii. :math:`WML_{(B/M)}`
-	iii. :math:`SMB_{(MOM)}`
-	iv. :math:`SMB_{(B/M)}`
-	v. :math:`{HML}_{(ME)}`
-	vi. :math:`{HML}_{(MOM)}`
+Similarly, to construct For WML we take the cross – section of portfolios based on Size and prior 11 month cumulative returns from
+:math:`r_{t-12}` to :math:`r_{t-1}`, taking the top 30th percentile as Winners and Bottom 30th percentile as Losers to construct
+Momentum portfolios based on Size, namely Small Winners (SW), Small Neutral (SN), Small Losers (SL), Big Winners (BW), Big Neutral (BN) and Big Losers (BL).
+WML is the average of Winners minus average of Losers.
 
+.. figure:: _static/Crossection2.png
+	:scale: 50%
+	:align: center
 
-
-- To finally arrive at the :math:`SMB, HML, WML` we take the average of the factors conditioned on two other parameters.
-
-.. math::
-		{SMB} = \frac{1}{2}(SMB_{(MOM)} + SMB_{(B/M)})
+	`Figure above shows the cross-section of portfolios based on Size and prior 11 month returns using their respective cut-off points.`
 
 .. math::
 
-		{HML} = \frac{1}{2}( HML_{(ME)} + HML_{(MOM)} )
+     WML = \frac{1}{2}(SW + BW) - \frac{1}{2}(SL + BL)
+
+After sorting the portfolios on March 31st, represented by time t, of every year we find the monthly returns for the next 12 months,
+represented by :math:`t+1`, :math:`t+2`,..., :math:`t+12`, by deploying a buy – and – hold strategy for a month, thus rebalancing monthly.
+Returns are calculated using the formula below
 
 .. math::
-		{WML} = \frac{1}{2}( WML_{(ME)} + WML_{(B/M)})
+
+	r_t = \frac{P_{t}}{P_{t-1}} - 1
+
+where
+
+.. math::
+
+	P_{t} = \text{Adj Closing Prices at time t}
+
+	P_{t-1} = \text{Adj Closing Prices at time t-1}
 
 
+`ProwessDx` provides unadjusted closing prices along with adjusting factors. Here, adjusting factors is a multiple that is used to adjust the unadjusted prices
+for dividends and stock splits. The :math:`R_{m} - R_{f}` is the Value Weighted Nifty50 Index universe minus 91 – day T-Bill rate provided by the Reserve Bank of India (RBI).
+This factor is represented by Market Risk Premium (MRP).
 
-
-
-
-
-
-
-
+The descriptive statistics of cumulative returns for Fama-French factors as well as long only factor portfolios are provided in the Appendix.
 
 
 
@@ -205,8 +199,7 @@ The methodology for **2-D** sorting for `Momentum` and `Size` is illustrated bel
 
 .. rubric:: Footnotes
 
-.. [#] `Agarwalla, S. K., Jacob, J. and Varma, J. R. (2013), Four factor model in Indian equities market, Working Paper W.P. No. 2013-09-05, Indian Institute of Management, Ahmedabad.`
 
-.. [#] `ProwessDx Data`
+.. [#] Jegadeesh, N. and Titman, S. (1993), `Returns to buying winners and selling losers: Implications for stock market efficiency`, The Journal of Finance 48(1), 65–91.
 
-.. [#] `Jegadeesh, N. and Titman, S. (1993), ‘Returns to buying winners and selling losers: Implications for stock market efficiency’, The Journal of Finance 48(1), 65–91.`
+.. [#] Asness, Clifford S., 1994, `Variables that explain stock returns`, Ph.D. Dissertation, University of Chicago.

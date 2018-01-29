@@ -33,7 +33,7 @@ The following table shows the :ref:`shrt_avl_tbl` on a particular day. Although,
 
 
 You can also ``Download`` the `table <https://www.nseindia.com/content/slbs/slb_elg_sec.csv>`_ showing the short availabilities. The link
-redirects you the NSE website for an automatic download.
+redirects you to the NSE website for an automatic download.
 
 
 

@@ -1,3 +1,5 @@
+.. _liqtcost:
+
 Liquidity Risk and Transaction Cost
 ====================================
 
@@ -18,10 +20,10 @@ Spread and Transaction Cost.
 It is thus safe to say that market efficiency and quality could be estimated by means of how narrow the Bid/Ask Spreads are. There has
 been no dearth of literature on measuring the efficiency and quality of markets through the Bid/Ask Spreads. In fact overreaction and under reaction in markets, both of which are
 market inefficiencies, have often widened the Spreads in markets. [#]_ This implies that using Bid/Ask Spreads to is indeed a theoretically correct and practically sane method of
-measuring market efficiencies. 
+measuring market efficiencies.
 
 
-Let's go back to the example of Security A. Let's say that the current Bid price is $5 and the current Ask price is $5.5, the the Bid/Ask Spread of Security A is  approximately
+Let's go back to the example of Security A. Let's say that the current Bid price is $5 and the current Ask price is $5.05, the the Bid/Ask Spread of Security A is  approximately
 0.9% of the current Ask price. The implication of this spread is that the investor loses 0.9% (1%) of the value of Security A as soon as he/she buys (short sells) the Security.
 
 
