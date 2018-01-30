@@ -27,22 +27,64 @@ Let's go back to the example of Security A. Let's say that the current Bid price
 0.9% of the current Ask price. The implication of this spread is that the investor loses 0.9% (1%) of the value of Security A as soon as he/she buys (short sells) the Security.
 
 
-To study how the Transaction Cost behaves with respect to Volume we studied the average Bid-Ask Spread as the percentage of the Average Mid-Price
-Intraday of present 500 constituents of NIFTY500.
+For the purpose of implementation and choosing the constituents of our portfolio
+from a liquid and an efficient market, we study the behavior of bid/ask spread
+as a percentage of average mid-price intraday of present 500 constituents of
+Nifty 500 with respect to turnover and market capitalization.
+We conclude that the smaller the stocks, the more the transaction cost.
+Similarly, we find a linear relationship between the turnover of the stock and
+the average bid/ask spread.
 
 .. raw:: html
 
-  <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/Bid_Ask2.html"></iframe>
+  <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/Total_BidAsk.html"></iframe>
 
 
 `In the Figure above, we notice that the average Bid/Ask Spread as a percentage of the Mid-Price (average intraday) of NIFTY500 constituents is a decreasing function of Volume, implying
 that higher trading volume comes with tighter spreads and better quality in Market Microstructure.`
 
 
-Another important determinant of Bid/Ask Spread is volatility. Many studies (Chordia, Roll, and Subhramanyam, 2000, 2001, 2002) [#]_ find that higher liquidity is generally
-associated with lower volatility and Transaction Cost [#]_. This makes sense intuitively, as volatility usually increases during a rapid decline or advancement of market,
-in which case market makers step in to take advantage of - and profit from - the change. As the price of a security advance increasingly, more investors are willing to pay a higher
-price for the security enabling the market maker to charge a higher (premium) than efficient price on the security.
+
+
+
+.. raw:: html
+
+  <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/TopBidAsk.html"></iframe>
+
+
+  .. raw:: html
+
+    <iframe align = "center" width="1050" height="610" frameborder="0" scrolling="auto" src="_static/BottomBidAsk.html"></iframe>
+
+
+`The figures above indicate the bid/ask spread percentage for the Smallest 100
+stocks and the Largest 100 stocks from the Index of 500 stocks.`
+We noticed a high disparity between the bid/ask spread of Largest 100 and
+Smallest 100 stocks in the Nifty 500 index. We also studied the bid/ask spread
+percentage from October 13, 2017 to November 13, 2017 and found that for Top 100
+and Bottom 100 Stocks, the bid/ask spread percentage did not move much for this
+period, which had neither any inclusion nor exclusion of stocks to the index.
+
+Due to unavailability of intraday data for stocks other than those in Nifty
+500 Index, we could not conduct the same test for stocks outside of Nifty 500 Index.
+However, as discussed above, to be considered for the index, the constituent has
+to be in the top 800 rank based on the average daily turnover and average full
+market capitalization. Moreover, given that the constituents of Nifty 500
+(500 out of more than 1600 stocks) represent 95.2% of market capitalization of
+National Stock Exchange, it is safe to assume that the stocks that are not a
+part of the index may have a higher bid/ask spread percentage on an average and
+may also be less liquid because of their size and low trading activities.
+
+
+Another important determinant of Bid/Ask Spread is volatility. Many studies
+(Chordia, Roll, and Subhramanyam, 2000, 2001, 2002) [#]_ find that higher
+liquidity is generally associated with lower volatility and Transaction
+Cost [#]_. This makes sense intuitively, as volatility usually increases during
+a rapid decline or advancement of market, in which case market makers step in to take advantage of - and profit
+from - the change. As the price of a security advance increasingly, more
+investors are willing to pay a higher price for the security enabling the market
+maker to charge a higher (premium)
+than efficient price on the security.
 
 
 
