@@ -91,8 +91,6 @@ redirects you to the NSE website for an automatic download.
 
 
 
-
-
 .. rubric:: Footnotes
 
 .. [#] `Features of SLBS <https://www.nseindia.com/products/content/equities/slbs/features_slbs.htm>`_
