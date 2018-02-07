@@ -112,6 +112,7 @@ the Risk Free (:math:`R_{f}`) rate in India has been steadily declining, current
    crnt_posititions
    shrt_sllng_ind
    liquidity
+   
 
 
 
