@@ -120,6 +120,7 @@ html_theme_options = {
 	'bootswatch_theme': "cosmo",
 	'navbar_links' : [
 		("About the Authors" , "About"),
+        ('TSMOM', 'tsmom')
 		]
 	}
 

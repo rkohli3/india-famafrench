@@ -1,0 +1,27 @@
+.. _tsmom
+
+Time Series Momentum (TSMOM)
+==============================
+
+
+What is TSMOM?
+---------------
+
+
+Time Series Momentum, or TSMOM, is a market anomaly that captures strong positive
+predictability from a security's own past returns. That is, if the past returns
+are positive, they will continue to be positive and vice versa [#]_.
+
+This is related to, however, different from "momentum" in finance literature,
+which refers to the cross-sectional performance comparison of a security from
+its peers, where securities that have out performed their peers in the past
+three to twelve months, will continue to do so on an average. TSMOM, focuses
+primarily on the security's own returns
+
+
+
+
+.. rubric:: Footnotes
+
+.. [#] Moskowitz T., Ooi Y., Pedersen L., `Time series momentum`, 
+*Journal of Financial Economics*, Volume 104, Issue 2, 2012, Pages 228-250,`
