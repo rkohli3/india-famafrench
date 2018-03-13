@@ -45,8 +45,6 @@ We provide the interactive plots and data below, along with summary statistics.
 
 
 
-
-
 .. raw:: html
 
   <iframe align = "left" width="50%" height="400" frameborder="0" scrolling="auto" src="_static/ETFUnderwater.html"></iframe>
@@ -56,8 +54,9 @@ We provide the interactive plots and data below, along with summary statistics.
 
 
 
+
 .. raw:: html
 
-    <iframe align = "left" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatmap.html"></iframe>
+    <iframe align = "left" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatMap.html"></iframe>
 
-    <iframe align = "right" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatmapVol.html"></iframe>
+    <iframe align = "right" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatMapVol.html"></iframe>
