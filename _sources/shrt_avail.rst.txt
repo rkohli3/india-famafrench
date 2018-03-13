@@ -11,7 +11,7 @@ table once every week on Friday morning at 9:00am EST. The `Series` column depic
 can be lent/borrowed.
 
 Off the **416** stocks available for short selling, **266** of them intersect with our total portfolio of HML, SMB and WML. The intersection
-of Stocks can be :download:`Downloaded<_static/StockIntersections.txt>` here. These numbers are as of January 30, 2018 9:00 am EST.
+of Stocks can be :download:`downloaded<_static/StockIntersections.txt>` here. These numbers are as of January 30, 2018 9:00 am EST.
 
 
 

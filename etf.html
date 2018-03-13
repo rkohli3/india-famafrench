@@ -31,8 +31,6 @@
     <link rel="shortcut icon" href="_static/logo1.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="TSMOM in Indian Equities" href="indianequities.html" />
-    <link rel="prev" title="CTA TSMOM" href="cta.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -71,15 +69,12 @@
   <ul class="dropdown-menu globaltoc"
       role="menu"
       aria-labelledby="dLabelGlobalToc"><p class="caption"><span class="caption-text">Smart Beta:</span></p>
-<ul class="current">
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="method.html">Methodology for India</a></li>
 <li class="toctree-l1"><a class="reference internal" href="crnt_posititions.html">Current Positions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="shrt_sllng_ind.html">Short Selling in India</a></li>
 <li class="toctree-l1"><a class="reference internal" href="liquidity.html">Liquidity Risk and Transaction Cost</a></li>
-<li class="toctree-l1"><a class="reference internal" href="cta.html">CTA TSMOM</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">TSMOM in ETFs</a></li>
-<li class="toctree-l1"><a class="reference internal" href="indianequities.html">TSMOM in Indian Equities</a></li>
 </ul>
 </ul>
 </li>
@@ -93,7 +88,11 @@
   <ul class="dropdown-menu localtoc"
       role="menu"
       aria-labelledby="dLabelLocalToc"><ul>
-<li><a class="reference internal" href="#">TSMOM in ETFs</a></li>
+<li><a class="reference internal" href="#">TSMOM in ETFs</a><ul>
+<li><a class="reference internal" href="#backtest-data-and-methodology">Backtest Data and Methodology</a></li>
+<li><a class="reference internal" href="#results">Results</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
@@ -102,14 +101,6 @@
             
               
                 
-  <li>
-    <a href="cta.html" title="Previous Chapter: CTA TSMOM"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; CTA TSMOM</span>
-    </a>
-  </li>
-  <li>
-    <a href="indianequities.html" title="Next Chapter: TSMOM in Indian Equities"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">TSMOM in Indi... &raquo;</span>
-    </a>
-  </li>
               
             
             
@@ -139,6 +130,29 @@
       
   <div class="section" id="tsmom-in-etfs">
 <h1>TSMOM in ETFs<a class="headerlink" href="#tsmom-in-etfs" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="backtest-data-and-methodology">
+<h2>Backtest Data and Methodology<a class="headerlink" href="#backtest-data-and-methodology" title="Permalink to this headline">¶</a></h2>
+<p>We then proceed our research with most liquid ETFs by Dollar Volume as of February
+end, 2018. Although, this introduces a look ahead bias in our backtest, as some of these
+ETFs saw a large spike in volume during the recent market pullback, we conducted tests
+every year to check the volume of the ETFs in our research period, which made us conclude to choose
+the 100 ETFs. You can download the <a class="reference download internal" href="_downloads/ETFList.txt" download=""><code class="xref download docutils literal"><span class="pre">list</span></code></a> of ETFs here.</p>
+<p>For our Levered positions, we use the scaling factor of <span class="math">\(\frac{40\%}{\sigma_{t-1}^s}\)</span></p>
+</div>
+<div class="section" id="results">
+<h2>Results<a class="headerlink" href="#results" title="Permalink to this headline">¶</a></h2>
+<p>We provide the interactive plots and data below, along with summary statistics.</p>
+<ul class="simple">
+<li><p>Summary Statistics</p></li>
+</ul>
+<a class="reference internal image-reference" href="_images/ETFstats.png"><img alt="_images/ETFstats.png" class="align-center" src="_images/ETFstats.png" style="width: 548.0px; height: 214.0px;" /></a>
+<iframe align = "center" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/ETFPort.html"></iframe>      <iframe align = "left" width="50%" height="520" frameborder="0" scrolling="auto" src="_static/ETFAnnRets.html"></iframe>
+
+<iframe align = "right" width="50%" height="520" frameborder="0" scrolling="auto" src="_static/ETFVolAnnRets.html"></iframe><iframe align = "left" width="50%" height="400" frameborder="0" scrolling="auto" src="_static/ETFUnderwater.html"></iframe>
+
+<iframe align = "right" width="50%" height="400" frameborder="0" scrolling="auto" src="_static/ETFVolUnderwater.html"></iframe><iframe align = "left" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatmap.html"></iframe>
+
+<iframe align = "right" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatmapVol.html"></iframe></div>
 </div>
 
 

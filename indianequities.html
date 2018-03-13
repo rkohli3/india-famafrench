@@ -31,7 +31,6 @@
     <link rel="shortcut icon" href="_static/logo1.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="TSMOM in ETFs" href="etf.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -70,15 +69,12 @@
   <ul class="dropdown-menu globaltoc"
       role="menu"
       aria-labelledby="dLabelGlobalToc"><p class="caption"><span class="caption-text">Smart Beta:</span></p>
-<ul class="current">
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="method.html">Methodology for India</a></li>
 <li class="toctree-l1"><a class="reference internal" href="crnt_posititions.html">Current Positions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="shrt_sllng_ind.html">Short Selling in India</a></li>
 <li class="toctree-l1"><a class="reference internal" href="liquidity.html">Liquidity Risk and Transaction Cost</a></li>
-<li class="toctree-l1"><a class="reference internal" href="cta.html">CTA TSMOM</a></li>
-<li class="toctree-l1"><a class="reference internal" href="etf.html">TSMOM in ETFs</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">TSMOM in Indian Equities</a></li>
 </ul>
 </ul>
 </li>
@@ -92,7 +88,11 @@
   <ul class="dropdown-menu localtoc"
       role="menu"
       aria-labelledby="dLabelLocalToc"><ul>
-<li><a class="reference internal" href="#">TSMOM in Indian Equities</a></li>
+<li><a class="reference internal" href="#">TSMOM in Indian Equities</a><ul>
+<li><a class="reference internal" href="#backtest-data-and-methodology">Backtest Data and Methodology</a></li>
+<li><a class="reference internal" href="#results">Results</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
@@ -101,10 +101,6 @@
             
               
                 
-  <li>
-    <a href="etf.html" title="Previous Chapter: TSMOM in ETFs"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; TSMOM in ETFs</span>
-    </a>
-  </li>
               
             
             
@@ -134,6 +130,31 @@
       
   <div class="section" id="tsmom-in-indian-equities">
 <h1>TSMOM in Indian Equities<a class="headerlink" href="#tsmom-in-indian-equities" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="backtest-data-and-methodology">
+<h2>Backtest Data and Methodology<a class="headerlink" href="#backtest-data-and-methodology" title="Permalink to this headline">¶</a></h2>
+<p>We conclude our research with most liquid stocks in Indian Equities as of September 2017.
+Although, this is a survivorship bias portfolio, we also provide an Equally Weighted
+Long Only portfolio, rebalanced monthly, in our backtest for comparison.</p>
+<p>Indian Equities are more volatile than the US markets, as shown in the ex-ante volatility
+that were far greater than any mid-cap stocks in US equities, thus scaling the positions
+here helped us reduce the volatility of portfolios</p>
+<p>For our Levered positions, we use the scaling factor of <span class="math">\(\frac{50\%}{\sigma_{t-1}^s}\)</span></p>
+</div>
+<div class="section" id="results">
+<h2>Results<a class="headerlink" href="#results" title="Permalink to this headline">¶</a></h2>
+<p>We provide the interactive plots and data below, along with summary statistics.</p>
+<ul class="simple">
+<li><p>Summary Statistics</p></li>
+</ul>
+<a class="reference internal image-reference" href="_images/Indstats.png"><img alt="_images/Indstats.png" class="align-center" src="_images/Indstats.png" style="width: 504.0px; height: 208.0px;" /></a>
+<iframe align = "center" width="100%" height="650" frameborder="0" scrolling="auto" src="_static/IndiaMom.html"></iframe>      <iframe align = "left" width="50%" height="550" frameborder="0" scrolling="auto" src="_static/IndAnnRet.html"></iframe>
+
+<iframe align = "right" width="50%" height="550" frameborder="0" scrolling="auto" src="_static/IndVolAnnRet.html"></iframe><a class="reference internal image-reference" href="_images/Nifty50AnnRet.png"><img alt="_images/Nifty50AnnRet.png" class="align-center" src="_images/Nifty50AnnRet.png" style="width: 500.0px; height: 500.0px;" /></a>
+<iframe align = "left" width="50%" height="400" frameborder="0" scrolling="auto" src="_static/IndUnderwaterUnLevered.html"></iframe>
+
+<iframe align = "right" width="50%" height="400" frameborder="0" scrolling="auto" src="_static/IndUnderwaterVol.html"></iframe><iframe align = "left" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/IndMomHeatmap.html"></iframe>
+
+<iframe align = "right" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/IndMomVolScaleHeatmap.html"></iframe></div>
 </div>
 
 

@@ -1,0 +1,68 @@
+SPY	SPDR S&P 500 ETF
+XLF	Financial Select Sector SPDR Fund
+VXX	iPath S&P 500 VIXShort-Term Futures ETN
+UVXY	ProShares Ultra VIXShort-Term Futures
+QQQ	PowerShares QQQ
+IWM	iShares Russell 2000 ETF
+TVIX	VelocityShares Daily 2x VIX Short Term ETN
+AMLP	Alerian MLP ETF
+FXI	iShares China Large-Cap ETF
+XLU	Utilities Select Sector SPDR Fund
+XOP	SPDR S&P Oil & Gas Exploration & Production ETF
+HYG	iShares iBoxx $ High Yield Corporate Bond ETF
+JNK	SPDR Barclays High Yield Bond ETF
+XLE	Energy Select Sector SPDR Fund
+XLK	Technology Select Sector SPDR Fund
+XLP	Consumer Staples Select Sector SPDRFund
+XLI	Industrial Select Sector SPDR Fund
+TLT	iShares 20+ Year Treasury Bond ETF
+EWJ	iShares MSCI Japan ETF
+TZA	Direxion Daily Small Cap Bear 3X Shares
+SPXU	ProShares UltraPro Short S&P 500
+SVXY	ProShares Short VIXShort-Term Futures
+XLV	Health Care Select Sector SPDR Fund
+SQQQ	ProShares UltraPro Short QQQ
+LABD	Direxion Daily S&P Biotech Bear 3x Shares
+IYR	iShares U.S. Real Estate ETF
+KRE	SPDR S&P Regional Banking ETF
+XIV	VelocityShares Daily Inverse VIX Short Term ETN
+XRT	SPDR S&P Retail ETF
+LQD	iShares iBoxx $ Investment Grade Corporate Bond ETF
+XLB	Materials Select Sector SPDR ETF
+XLY	Consumer Discretionary Select Sector SPDR Fund
+VNQ	Vanguard REIT ETF
+DIA	SPDR Dow Jones Industrial Average ETF
+SDS	ProShares UltraShort S&P 500
+XBI	SPDR S&P Biotech ETF
+IVV	iShares Core S&P 500 ETF
+TQQQ	ProShares UltraPro QQQ
+BKLN	PowerShares Senior Loan ETF
+DXJ	WisdomTree Japan Hedged Equity Fund
+QID	ProShares UltraShort QQQ
+EWG	iShares MSCI Germany ETF
+AGG	iShares Core U.S. Aggregate Bond ETF
+TNA	Direxion Daily Small Cap Bull 3X Shares
+XME	SPDR S&P Metals & Mining ETF
+INDA	iShares MSCI India ETF
+AMJ	JPMorgan Alerian MLP Index ETN
+SH	ProShares Short S&P 500
+TBT	UltraShort Barclays 20+ Year Treasury
+EWW	iShares MSCI Mexico Capped ETF
+IJR	iShares Core S&P Small-Cap ETF
+VTI	Vanguard Total Stock Market ETF
+PFF	iShares U.S. Preferred Stock ETF
+SPXL	Direxion Daily S&P 500 Bull 3X Shares
+VOO	Vanguard S&P 500 ETF
+IBB	iShares Nasdaq Biotechnology ETF
+SPXS	Direxion Daily S&P 500 Bear 3X Shares
+EWC	iShares MSCI Canada ETF
+IEF	iShares 7-10 Year Treasury Bond ETF
+ITB	iShares U.S. Home Construction ETF
+KBE	SPDR S&P Bank ETF
+BND	Vanguard Total Bond Market ETF
+IWD	iShares Russell 1000 Value ETF
+EWU	iShares MSCI United Kingdom ETF
+PGX	PowerShares Preferred Portfolio
+SJNK	SPDR Barclays Capital Short Term High Yield Bond ETF
+XLRE	Real Estate Select Sector SPDR Fund
+MCHI	iShares MSCI China ETF
