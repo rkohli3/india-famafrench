@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Methodology for TSMOM &#8212; Smart Beta in India  documentation</title>
+    
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/style.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="shortcut icon" href="_static/logo1.ico"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          Smart Beta in India</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+                <li><a href="About.html">About the Authors</a></li>
+                <li><a href="tsmom.html">TSMOM</a></li>
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><p class="caption"><span class="caption-text">Smart Beta:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="Fama.html">Survivorship Bias in Indian Equity Markets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="method.html">Methodology for India</a></li>
+<li class="toctree-l1"><a class="reference internal" href="crnt_posititions.html">Current Positions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="shrt_sllng_ind.html">Short Selling in India</a></li>
+<li class="toctree-l1"><a class="reference internal" href="liquidity.html">Liquidity Risk and Transaction Cost</a></li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Methodology for TSMOM</a><ul>
+<li><a class="reference internal" href="#data">Data</a></li>
+<li><a class="reference internal" href="#proof-of-momentum">Proof of Momentum</a></li>
+<li><a class="reference internal" href="#signal-generation">Signal Generation</a></li>
+<li><a class="reference internal" href="#volatility-scaling">Volatility Scaling</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+              
+            
+            
+            
+            
+              <li class="hidden-sm"></li>
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="methodology-for-tsmom">
+<span id="tsmom-method"></span><h1>Methodology for TSMOM<a class="headerlink" href="#methodology-for-tsmom" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="data">
+<h2>Data<a class="headerlink" href="#data" title="Permalink to this headline">¶</a></h2>
+<p>The data have been extracted primarily from Centre for Monitoring Indian Economy (<a class="reference external" href="https://www.cmie.com/kommon/bin/sr.php?kall=wproducts&amp;tabno=7010&amp;prd=prowessdx&amp;portal_code=030010040005000000000000000000000000000000000">CMIE ProwessDx</a>).
+ProwessDx delivers financial performance data and markets data on Publicly Listed
+companies in India. Other data sources are Quantopian research, Quandl and Yahoo Finance</p>
+</div>
+<div class="section" id="proof-of-momentum">
+<h2>Proof of Momentum<a class="headerlink" href="#proof-of-momentum" title="Permalink to this headline">¶</a></h2>
+<p>The main premise of Time Series Momentum is that past returns can be used as
+a robust indicator of future returns, implying if the stocks have had positive
+returns in the past, they would continue to do so in the future on average.</p>
+<p>To establish the above said relationship, we regress we find proof of momentum
+within an asset by regressing its returns, lagged for a certain period
+on today’s returns. For example if we want to establish relationship of today’s
+returns with yesterday’s returns, we will simply regress the security’s returns
+with itself lagged by 1 day ie</p>
+<div class="math">
+\[r_{t} = c + \beta_{1}r_{t-1} + \epsilon\]</div>
+<p>where,</p>
+<ul class="simple">
+<li><p><span class="math">\(r_{t}\)</span> is today’s excess returns</p></li>
+<li><p><span class="math">\(c\)</span> is the intercept</p></li>
+<li><p><span class="math">\(\epsilon\)</span> is the white noise</p></li>
+<li><p><span class="math">\(\beta_{1}\)</span> is our parameter</p></li>
+</ul>
+<p>If the <cite>t-stat</cite> for our  <span class="math">\(\beta_{1}\)</span> is <span class="math">\(\geq{2} \text{ or} \leq{-2}\)</span>,
+we have significant proof that there is a relationship. We thus perform the same
+process for monthly returns lagged for 40 months on all of our securities</p>
+<div class="math">
+\[r_{t}^s = c + \sum_{i=1}^{40}{\beta_{i}r_{t-i}^s} + \epsilon\]</div>
+<p>We plot our t-stats for Bond Futures and find a very strong relationship over
+the research study time. For futures, we start from January 1, 1985 to September 2016,
+for ETF’s we conduct our research starting from 1 January, 2003 till end February
+and for Indian Equities we cover the period starting from March 31, 1995 to September 29, 2017.</p>
+<a class="reference internal image-reference" href="_images/mom_rev.png"><img alt="_images/mom_rev.png" class="align-center" src="_images/mom_rev.png" style="width: 526.0px; height: 346.5px;" /></a>
+<p>In the <cite>Figure</cite> above, we notice a momentum for 24-30 months in the Bond Futures
+and then see a reversal trend for most of the securities.</p>
+<p>The summary for CTA securities, including the sharpe ratio is provided below. Click
+on the picture to enlarge.</p>
+<a class="reference internal image-reference" href="_images/ctasummary.png"><img alt="_images/ctasummary.png" class="align-center" src="_images/ctasummary.png" style="width: 587.5px; height: 648.5px;" /></a>
+</div>
+<div class="section" id="signal-generation">
+<h2>Signal Generation<a class="headerlink" href="#signal-generation" title="Permalink to this headline">¶</a></h2>
+<p>Recall our regression on lagged returns of the security. Our parameter <cite>t-stat</cite>
+will either be positive or negative.</p>
+<div class="math">
+\[r_{t}^s = c + (sign)\beta_{h}r_{t-h}^s + \epsilon\]</div>
+<p>Here <span class="math">\(sign\)</span> will be our signal generator, which implies if the past h month return,
+excluding the most recent month, is positive (<strong>+</strong>), we will go short. If the same number is negative
+(<strong>-</strong>), we will go short.</p>
+<p>We choose our look back period to be 12 months and our holding period to be 1 month.</p>
+<div class="math">
+\[r_{t,t+1}^{TSMOM, s} = (sign)r_{(t-12, t)}^{s}r_{(t, t+1)}^s\]</div>
+<p>where,</p>
+<ul class="simple">
+<li><p><span class="math">\(r_{t,t+1}\)</span> is the TSMOM return for the next month for security <cite>s</cite></p></li>
+<li><p><span class="math">\(sign\)</span> is either positive negative on the past 12 month returns</p></li>
+<li><p><span class="math">\(r_{(t-12, t)}^{s}\)</span> is the 12 month return for security <cite>s</cite>.</p></li>
+</ul>
+<p>For example, let’s say the returns for February, 2018 for SPY are <span class="math">\(-3.52\%\)</span>
+and the past 12 month returns are <span class="math">\(-10\%\)</span>. Since our <em>sign</em> is negative,
+we will sell short SPY and our returns for February will be <span class="math">\((sign)-3.52\%\)</span>
+or just <span class="math">\(3.52\%\)</span></p>
+</div>
+<div class="section" id="volatility-scaling">
+<h2>Volatility Scaling<a class="headerlink" href="#volatility-scaling" title="Permalink to this headline">¶</a></h2>
+<p>To further reduce our volatility, we also scale our positions by scaling the
+ex-ante volatility of each security. This makes sense intuitively for the reasons
+mentioned in the paper and also for the fact that during high volatility periods,
+we well decrease our position size because of drastic increase in ex-ante volatility.</p>
+<p>We use the scale as 20%, else, we find our leverage to increase significantly during
+low volatility bull market periods. <strong>We will call this portfolio TSMOM VolScale</strong>
+and the <strong>unlevered portfolio as just TSMOM.</strong></p>
+<p>The scaling factor thus is: <span class="math">\(\frac{20\%}{\sigma_{t-1}}\)</span>. So our complete equation then becomes:</p>
+<div class="math">
+\[r_{t,t+1}^{TSMOM VolScale, s} = (sign)r_{(t-12, t)}^{s}\frac{20\%}{\sigma_{t-1}}r_{(t, t+1)}^s\]</div>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017, Ravi Kohli.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.2.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

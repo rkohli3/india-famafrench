@@ -105,14 +105,18 @@ the Risk Free (:math:`R_{f}`) rate in India has been steadily declining, current
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Smart Beta:
 
    Fama
    method
    crnt_posititions
    shrt_sllng_ind
    liquidity
-   
+
+
+
+
+
 
 
 
