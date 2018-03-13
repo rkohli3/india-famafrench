@@ -56,9 +56,6 @@ We provide the interactive plots and data below, along with summary statistics.
 
 
 
-
-
-
 .. raw:: html
 
     <iframe align = "left" width="49%" height="600" frameborder="0" scrolling="auto" src="_static/ETFHeatmap.html"></iframe>
