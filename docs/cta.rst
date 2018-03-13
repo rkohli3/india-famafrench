@@ -2,6 +2,8 @@ CTA TSMOM
 ===========
 
 
+Backtest Data and Methodology
+---------------------------------
 As we compute a market anomaly for Time Series Momentum, which is different
 than the Momentum in finance literature, as documented by `Jegadeesh and Titman (1993)`,
 we establish strong relationship of securities returns with its past returns. We
@@ -12,13 +14,19 @@ start with 54 continuous futures contracts covering
 - Bond Futures
 - Commodity Futures
 
+For our Levered positions, we use the scaling factor of :math:`\frac{20\%}{\sigma_{t-1}^s}`
+
+
+Results
+---------
+
 We provide the interactive plots and data below, along with summary statistics.
 
 - Summary Statistics
 
 .. image:: _static/ctastats.png
   :align: center
-  :scale: 75%
+  :scale: 40%
 
 
 
